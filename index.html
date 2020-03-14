@@ -1,0 +1,330 @@
+---
+layout: default
+title: Home
+
+---
+
+
+
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        
+ <!--- 
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        -->
+
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <img src="img/mirror_therapy_example_2.png">
+            
+        </div>
+        <div class="carousel-caption">
+             
+              <h1 class="hero-header">Let's make life better...</h1>
+              
+              <p class="hero-caption">Psychology appointments available in Birmingham and by Skype</p>
+
+              <br>
+              <button type="button" class="btn btn-default"><a href="/drfrancesca/about.html">Start here</button></a>
+        </div>
+      
+
+       
+        <div class="item">
+           <img src="img/Family_therapy_example_50.png">
+        </div>
+
+
+    <!--End active
+
+        <div class="item">
+            <img src="img/red.png">
+    </div>
+
+    -->
+    <!--- Start slider controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a> 
+
+  </div>
+</div>
+
+<div class="jumbotron">
+  <h1 class="display-4">Let's make life better...</h1>
+  <p class="lead">Psychology appointments available in Birmingham and by Skype </p>
+     <br>
+              <button type="button" class="btn btn-default"><a href="#VideoBlock">Start here</button></a>
+</div>
+  <!--- End slider -->
+
+  <!-- Services Section-->
+
+  <div class="container text-center">
+    <div id="serviceBlock">
+  <h3 id="services"><br></br>Services</h3>
+  <!--- Below the col-sm-3 part creates 4 equal columns in bootstrap -->
+<br>
+<div class="container text-center">
+        
+     
+        
+      </div>
+  <div class="row">
+    <div class="col-sm-3">
+      <img src="img/Icon-youth.png" id="icon">
+      <h4>Young people</h4>
+       <p id="insurers">I help adolescents to gain self-esteem and beat anxiety, eating disorders and harmful habits </p>
+      
+      
+    </div>
+    <div class="col-sm-3">
+      <img src="img/Icon-adults.png" id="icon">
+      <h4>Adults</h4>
+      <p id="insurers">Whether you're experiencing anxiety, depression or trauma, I can help</p>
+      
+      </div>
+    <div class="col-sm-3">
+      <img src="img/Icon-families.png" id="icon">
+      <h4>Families</h4>
+      <p id="insurers">I work with families to overcome life's challenges, such as bereavement and divorce</p>
+
+      
+    </div>
+    <div class="col-sm-3">
+      <img src="img/Icon-groups.png" id="icon">
+      <h4>Training</h4>
+      <p id="insurers">I run professional training on psychological trauma, attachment and personality disorders</p>
+     
+
+      
+
+       
+       
+    </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+
+<!--- Thankyou notes section-->
+
+  <div id="ThankyouBlock">
+  <div class="container-fluid text-center">
+    <h3 id="thankyous">Thank-you notes</h3>
+  <!--- Below the col-sm-4 part creates 3 equal columns in bootstrap -->
+  
+
+  <div class="row">
+    <div class="col-sm-4">
+      <br>
+      
+      <p class="testimonials"> "Dr Francesca was brilliant at nudging me towards introspection... It was a transformative experience"</p>
+      
+   
+<!---if you want to add name/title 
+    <section class="col-sm-12">First name/ Surname <img src="img/Icon-adults.png" alt="..." class="img-referral"><br>Service type </section>
+    
+-->
+    </div>
+
+
+    <div class="col-sm-4">
+      <br>
+      
+      <p class="testimonials">“It was like putting pieces of a jigsaw back together”
+</p>
+    </div>
+
+    <div class="col-sm-4">
+      <br>
+      <p class="testimonials">“The first time you put  me in front of the mirror I thought… What? Then I saw how broken I was and realised I needed to give that person a hug”
+</p>
+    </div>
+    <div class="col-sm-4">
+      
+       
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+
+ 
+ <!-- Hero Section-->
+ 
+<!--
+
+<div id="VideoBlock">
+<div class="container text-center">
+  <div class="row">
+    <div class="col-md-12">
+      <h2 id="videoIntro">Hi there</h2>
+      
+<br></br>
+
+    </div>
+    <div class="row">
+    <div>
+    <div>
+ 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+--->
+
+</div>
+</div>
+    </div>
+  </div>
+  
+    </div>
+  </div>
+</div>
+
+<body>
+  <br>
+  <br>
+  <div class="py-5">
+    <h3 id="thankyous">From the blog</h3>
+    <br>
+    <div class="container">
+     
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-block"> 
+              <p class="card-text p-y-1">{% for post in site.posts limit:1 %}
+    <a href="{{ site.baseurl }}/{{ post.url }}">
+    
+    
+    <div> {% assign truncatedContent = '' %}
+ 			{% assign paragraphs = post.content | split:'</p>' %}
+    		{% for paragraph in paragraphs limit: 4 %}
+    		{{ truncatedContent | append: paragraph }}
+    		{{ truncatedContent | append: '</p>' }}
+
+    		{% endfor %}
+        <a href="{{ site.baseurl }}/{{ post.url }}" style="color:#2195D3;"> Read more </a>
+    		 {% if hasImage %}
+  <div class="col-xs-2">
+    <img src="{{ site.baseurl }}{{ post.image.feature }}" alt="{{ post.title }}" >
+
+  </div>
+  {% endif %}
+
+    </div>
+    </a>
+  
+{% endfor %}</p>
+
+
+              
+            </div>
+          </div>
+        </div>
+        <div class="container">
+      <div class="row hidden-md-up">
+        <div class="col-md-4">
+          <div class="card">
+            
+            <div class="card-block">
+              <p class="card-text p-y-1">{% for post in site.posts offset:1 limit:1 %}
+   
+    <a href="{{ site.baseurl }}/{{ post.url }}">
+    
+    
+    <div> {% assign truncatedContent = '' %}
+
+ 			{% assign paragraphs = post.content | split:'</p>' %}
+
+ 			
+    		{% for paragraph in paragraphs limit: 3 %}
+    		{{ truncatedContent | append: paragraph }}
+    		{{ truncatedContent | append: '</p>' }}
+    		{% endfor %}
+<a href="{{ site.baseurl }}/{{ post.url }}" style="color:#2195D3;"> Read more </a>
+    		
+    		 {% if hasImage %}
+
+  <div class="col-xs-2">
+    <img src="{{ site.baseurl }}{{ post.image.feature }}" alt="{{ post.title }}" >
+
+  </div>
+  {% endif %}
+
+
+
+    </div>
+    </a>
+  </li>
+{% endfor %}</p>
+              <a href="#" class="card-link"></a>
+              <a href="#" class="card-link"></a>
+            </div>
+          </div>
+        </div><div class="container">
+      <div class="row hidden-md-up">
+        <div class="col-md-4">
+          <div class="card">
+            
+            <div class="card-block">
+              <p class="card-text p-y-1">{% for post in site.posts offset:2 limit:1 %}
+    
+    <a href="{{ site.baseurl }}/{{ post.url }}">
+    <div> {% assign truncatedContent = '' %}
+ 			{% assign paragraphs = post.content | split:'</p>' %}
+    		{% for paragraph in paragraphs limit: 3 %}
+    		{{ truncatedContent | append: paragraph }}
+    		{{ truncatedContent | append: '</p>' }}
+    		{% endfor %}
+    		 {% if hasImage %}
+  <div class="col-xs-2">
+    <img src="{{ site.baseurl }}{{ post.image.feature }}" alt="{{ post.title }}">
+  </div>
+  {% endif %}
+<a href="{{ site.baseurl }}/{{ post.url }}" style="color:#2195D3;"> Read more </a>
+    </div>
+    </a>
+  </li>
+{% endfor %}</p>
+              <a href="#" class="card-link"></a>
+              <a href="#" class="card-link"></a>
+            </div>
+          </div>
+        </div>
+
+    </div>
+</div>
+</div>
+</div>
+
+    <br>
+      
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+  <script src="https://pingendo.com/assets/bootstrap/bootstrap-4.0.0-alpha.6.min.js"></script>
+</body>
+
+
+</body>
+</html>
+
+
+<!--- Bootstrap core javascript - placed at the end of the document so pages load faster-->
+
+<script src="js/smooth-scroll.polyfills.min.js"></script>
+<script>
+  var scroll = new SmoothScroll('a[href*="#"]');
+</script>

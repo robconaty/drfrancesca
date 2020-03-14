@@ -1,0 +1,20 @@
+---
+layout: post
+title: post
+---
+<br>
+<h3 id="thankyous">{{ page.title }}</h3>
+
+<li>
+      <h3 id="thankyous"><a href="{{ post.url }}">{{ page.title }}</h3></a>
+    </li>
+<p class="biography"> {{ page.date | date_to_string }} - {{ page.author }}</p>
+
+
+<p class="blogcopy">
+
+{{ content }}
+
+</p>
+
+
