@@ -471,8 +471,9 @@ height: auto;
 
 
 img#logo {
-	max-width:80%;
-	  }
+
+  max-width: 80%;
+}
 
 
 #welcometext, #welcometextform {
