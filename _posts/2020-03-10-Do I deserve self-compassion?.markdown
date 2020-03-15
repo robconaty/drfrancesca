@@ -3,7 +3,6 @@ layout: post
 author: Dr Francesca
 title: Practice self-compassion
 
-
 ---
  
  <h2 class="postheader"><a href="{{ site.baseurl }}/{{ page.url }}">{{ page.title }}</a></h2>
@@ -38,7 +37,7 @@ Compassion involves feeling moved by others’ suffering so that you respond to 
 -    Practice mindfulness.
 <p class="blogcopy">
 
-<a href="https://www.pexels.com/photo/man-looking-at-mirror-1134184/">Photo by Min An from Pexels</a>
+<a href="https://www.pexels.com/photo/man-looking-at-mirror-1134184/">Photo by Min An, Pexels</a>
 
 </p>
 <br>

@@ -29,6 +29,8 @@ title: Home
               
               <p class="hero-caption">Psychology appointments available in Birmingham and by Skype</p>
 
+          
+
               <br>
               <button type="button" class="btn btn-default"><a href="/drfrancesca/about.html">Start here</button></a>
         </div>
@@ -216,7 +218,7 @@ title: Home
     		{{ truncatedContent | append: '</p>' }}
 
     		{% endfor %}
-        <a href="{{ site.baseurl }}/{{ post.url }}" style="color:#2195D3;"> Read more </a>
+        <a id="teaser" href="{{ site.baseurl }}/{{ post.url }}"> Read more </a>
     		 {% if hasImage %}
   <div class="col-xs-2">
     <img src="{{ site.baseurl }}{{ post.image.feature }}" alt="{{ post.title }}" >
@@ -254,7 +256,7 @@ title: Home
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}
-<a href="{{ site.baseurl }}/{{ post.url }}" style="color:#2195D3;"> Read more </a>
+<a id="teaser" href="{{ site.baseurl }}/{{ post.url }}"> Read more </a>
     		
     		 {% if hasImage %}
 
@@ -294,7 +296,7 @@ title: Home
     <img src="{{ site.baseurl }}{{ post.image.feature }}" alt="{{ post.title }}">
   </div>
   {% endif %}
-<a href="{{ site.baseurl }}/{{ post.url }}" style="color:#2195D3;"> Read more </a>
+<a id="teaser" href="{{ site.baseurl }}/{{ post.url }}"> Read more </a>
     </div>
     </a>
   </li>

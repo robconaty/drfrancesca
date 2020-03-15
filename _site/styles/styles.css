@@ -20,7 +20,6 @@
   }
 
 
-
 .navbar-nav {
 
   padding-right: 50px;
@@ -34,6 +33,15 @@
     border-top: 4px solid #2195D3;
     background: #e8f3f9;
     min-height: 80px;
+  }
+
+  a#teaser {
+
+ 
+  padding-left: 10px;
+  color: #2195D3;
+}
+
   }
   
   #welcomehead {
@@ -50,7 +58,7 @@
 
   /*color of navigation links controlled below*/
   .navbar-default .navbar-nav li a {
-    color: #d5d5d5;
+    color: #55555;
     
   }
 
@@ -114,6 +122,8 @@ h4#Contact {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
  
 
   
@@ -198,6 +208,7 @@ filter: grayscale(100%);
   background-color: #444943;
   margin-top: 50px;
   width: 100%;
+  padding-bottom: 10px;
 }
 
 .jumbotron p, h1.display-4 {
@@ -217,9 +228,11 @@ filter: grayscale(100%);
 
   text-align: center;
   margin-top: auto;
-  padding-top: 30px;
+  padding-top: 50px;
 
 }
+
+
 
 .youtube-responsive-container {
 position:relative;
@@ -281,6 +294,10 @@ margin-left: auto;
 
   }
 
+  .postheader a:hover {
+    text-decoration: none;
+  }
+
   .btn a:hover {
 
     text-decoration: none;
@@ -322,7 +339,7 @@ creates a margin for the container holding the icons*/
   #ThankyouBlock {
 
       background-color: #e8f3f9;
-      padding-top: 80px;
+      padding-top: 30px;
       padding-bottom: 60px;
       padding-left: 60px;
       padding-right: 60px
@@ -338,7 +355,18 @@ creates a margin for the container holding the icons*/
 p#insurers {
 
 text-align: center;
+padding-left: 0;
+padding-bottom: 0;
 }
+
+.shadow {
+
+  background: black;
+  width: 100%;
+  opacity: 0.1;
+  
+}
+
 
 p.blogdate {
 
@@ -347,6 +375,7 @@ color: #2195D3;
 margin-right: auto;
 margin-left:auto;
 max-width: 600px;
+padding-right: 10px;
 
 
 
@@ -380,7 +409,7 @@ max-width: 600px;
  .testimonials {
 
   font-family: 'Lato', sans-serif;
-  font-size: 1.3em; 
+  font-size: 1.2em; 
  }
 
  .biography {
@@ -412,11 +441,15 @@ padding-right: 20px;
 
   text-align: center;
 
-  padding-top: 30px;
+  
 
  }
 
- 
+ #blogheader {
+
+  padding-top: 80px;
+
+ }
 
 
 #icon {
@@ -471,7 +504,17 @@ padding-left: 10px;
       }
     
  
+#ThankyouBlock {
 
+      background-color: #e8f3f9;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 30px;
+      padding-right: 30px
+
+  }
+
+  
 
 ul.blogroll {
 
@@ -479,8 +522,7 @@ ul.blogroll {
   font-size: 1.1em;
   margin-left:auto;
   margin-right: auto;
-  padding-top: 50px;
-  padding-bottom:50px;
+
 
 
  }
@@ -493,8 +535,23 @@ max-width: 100%;
 height: auto;
 }
 
+p.lead {
 
+  font-size: 16px;
+  padding-top: 15px;
+}
 
+h1.display-4 {
+
+  font-size: 20px;
+  padding-top: 15px;
+  
+}
+
+h3#services, h3#thankyous {
+font-size: 20px;
+margin-top: 5px;
+}
 
   @media (max-width: 600px) {
     
@@ -507,7 +564,12 @@ height: auto;
 }
 
 
+h4#Contact {
 
+    text-align: center;
+    
+    margin-left: 0;
+  }
 
 
 #welcometext, #welcometextform {
@@ -516,7 +578,10 @@ height: auto;
 }
 
 
- 
+ img#icon {
+
+  padding-top: 30px;
+ }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: transparent;
@@ -563,14 +628,19 @@ display: none;
 
 .blogcopy, .blogdate {
 
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
  h3#thankyous {
 
-      padding-top: 20px;
+      padding-top: 0px;
       
+  }
+
+  h3#blogheader {
+
+    font-size: 1.3em;
   }
 
 
@@ -582,5 +652,25 @@ display: none;
   padding-top: 0;
  }
 
+ .navbar-brand {
+    float: left;
+    min-height: 80px;
+    padding: 10px 0px 5px 5px;
+  }
+
+@media screen and (max-width: 312px) {
+
+.navbar-brand {
+
+  max-width: 80%;
+
+
+}
+
+  
+
+
+
+}
 
   </style>

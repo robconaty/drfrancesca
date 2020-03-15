@@ -34,7 +34,7 @@ You’ll also be surprised by what the book may tell you about your own experien
 </p>
 <p class="blogcopy">
 
-<a href="https://www.pexels.com/@edotommo99">Photo @edotommo99</a>
+<a href="https://www.pexels.com/@edotommo99">Photo by @edotommo99, Pexels</a>
 
 </p>
 <br>

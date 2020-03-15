@@ -21,13 +21,9 @@ title: Try '5 Tibetan rites' yoga
 Ask me about upcoming sessions at Oaktree Clinic. 
 </p>
 
-<p class="blogcopy"><a href="https://www.flickr.com/photos/daverose215/9707554768">Photo: Dave Rosenblum (CC)</a></p>
+<p class="blogcopy"><a href="https://www.flickr.com/photos/daverose215/9707554768">Photo, by Dave Rosenblum (CC)</a></p>
 <br>
-<p class="blogcopy">Here’s a video showing the 5 poses:</p>
-<br>
-<div class="youtube-responsive-container"><p class="blogcopy"><iframe width="560" height="400" src="https://www.youtube.com/embed/71jaJu0dc98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></div>
+<p class="blogcopy">Here’s a <a href="https://m.youtube.com/watch?feature=youtu.be&v=71jaJu0dc98">video</a> showing the 5 poses.</p>
 
-
-<br>
 <div class="sharethis-inline-share-buttons"></div>
 <br>
