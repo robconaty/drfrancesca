@@ -19,6 +19,8 @@
     padding: 15px 15px 15px 50px;
   }
 
+
+
 .navbar-nav {
 
   padding-right: 50px;
@@ -117,6 +119,21 @@ h4#Contact {
   
    }
 
+ p.blogcopycentered {
+
+  font-size: 1.1em;
+  text-align: center;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+ 
+
+  
+   }
+
+ 
+
+
 .aboutme {
 
   margin-left: auto;
@@ -180,12 +197,14 @@ filter: grayscale(100%);
 .jumbotron {
   background-color: #444943;
   margin-top: 50px;
+  width: 100%;
 }
 
 .jumbotron p, h1.display-4 {
 
   color: #fff;
-  padding: 15px 15px 15px 50px;
+  padding: 40px 15px 15px 50px;
+
 }
 
   .servicelinks {
@@ -271,6 +290,9 @@ margin-left: auto;
 .navbar-toggle {
 
   background-color: #E8F3F9;
+  margin-top: 15px;
+
+
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -285,6 +307,8 @@ margin-left: auto;
 .navbar-default .navbar-toggle {
   border-color: #2195D3;
 }
+
+
 
 
   /*
@@ -302,6 +326,7 @@ creates a margin for the container holding the icons*/
       padding-bottom: 60px;
       padding-left: 60px;
       padding-right: 60px
+
   }
 
 #serviceBlock {
@@ -373,15 +398,21 @@ padding-right: 20px;
 
 
 
-#welcometextform {
-  padding-left: 350px;
+
+.contactform {
+
+  text-align: center;
+
+
 }
 
 
- h3#thankyous, #services, #videoIntro, #welcome {
+ h3#thankyous, #services, #videoIntro, #welcome, #blogheader {
   font-family: 'Rock Salt', cursive;
-  margin: 0 0 0 0;
+
   text-align: center;
+
+  padding-top: 30px;
 
  }
 
@@ -423,7 +454,13 @@ padding-left: 10px;
     .jumbotron   { display:none; }
 }
 @media screen and (max-width: 600px) {
-    .jumbotron   { display:block; }
+    .jumbotron   { 
+
+      display:block; 
+      width: 100%;
+      padding:15px 0 15px 0;
+
+    }
 
 }
 
@@ -470,17 +507,12 @@ height: auto;
 }
 
 
-img#logo {
 
-  max-width: 70%;
-	height:auto;
-
-}
 
 
 #welcometext, #welcometextform {
   padding-left: 10px;
-  padding-right: 100px;
+  
 }
 
 
@@ -508,7 +540,10 @@ img#logo {
       font-size: 1.7em;
     }
 	
+img#logo {
 
+  max-width: 80%;
+}
 
 
 #myCarousel, #myCarouselSecondary { 
@@ -532,10 +567,19 @@ display: none;
   padding-right: 20px;
 }
 
+ h3#thankyous {
+
+      padding-top: 20px;
+      
+  }
+
+
+
  ul.blogroll {
 
   padding-left: 0;
   padding-right: 0;
+  padding-top: 0;
  }
 
 
