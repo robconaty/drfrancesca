@@ -35,6 +35,11 @@
     min-height: 80px;
   }
 
+  a.termslink {
+
+    color: white;
+  }
+
   a#teaser {
 
  
@@ -480,8 +485,9 @@ footer {
 
 #address {
 padding-left: 10px;
-
 }
+
+
 
 @media screen and (min-width: 600px) {
     .jumbotron   { display:none; }
