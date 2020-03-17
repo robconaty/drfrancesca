@@ -5,7 +5,7 @@ title: Try '5 Tibetan rites' yoga
 
 
 ---
- <h2 class="postheader"><a href="{{ site.baseurl }}/{{ page.url }}">{{ page.title }}</a></h2>
+ <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
 ![image]({{ site.baseurl }}/img/yoga.jpg){:class="image-class"}{:.postimage}

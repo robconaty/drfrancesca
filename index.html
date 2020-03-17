@@ -208,7 +208,7 @@ title: Home
           <div class="card">
             <div class="card-block"> 
               <p class="card-text p-y-1">{% for post in site.posts limit:1 %}
-    <a href="{{ site.baseurl }}/{{ post.url }}">
+    <a href="{{ site.baseurl }}{{ post.url }}">
     
     
     <div> {% assign truncatedContent = '' %}
@@ -218,7 +218,7 @@ title: Home
     		{{ truncatedContent | append: '</p>' }}
 
     		{% endfor %}
-        <a id="teaser" href="{{ site.baseurl }}/{{ post.url }}"> Read more </a>
+        <a id="teaser" href="{{ site.baseurl }}{{ post.url }}" > Read more </a>
     		 {% if hasImage %}
   <div class="col-xs-2">
     <img src="{{ site.baseurl }}{{ post.image.feature }}" alt="{{ post.title }}" >
@@ -244,7 +244,7 @@ title: Home
             <div class="card-block">
               <p class="card-text p-y-1">{% for post in site.posts offset:1 limit:1 %}
    
-    <a href="{{ site.baseurl }}/{{ post.url }}">
+    <a href="{{ site.baseurl }}{{ post.url }}">
     
     
     <div> {% assign truncatedContent = '' %}
@@ -256,7 +256,7 @@ title: Home
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}
-<a id="teaser" href="{{ site.baseurl }}/{{ post.url }}"> Read more </a>
+<a id="teaser" href="{{ site.baseurl }}{{ post.url }}"> Read more </a>
     		
     		 {% if hasImage %}
 
@@ -293,10 +293,10 @@ title: Home
     		{% endfor %}
     		 {% if hasImage %}
   <div class="col-xs-2">
-    <img src="{{ site.baseurl }}{{ post.image.feature }}" alt="{{ post.title }}">
+    <img src="{{ site.baseurl }}{{ post.image.feature }}">
   </div>
   {% endif %}
-<a id="teaser" href="{{ site.baseurl }}/{{ post.url }}"> Read more </a>
+<a id="teaser" href="{{ site.baseurl }}{{ post.url }}"> Read more </a>
     </div>
     </a>
   </li>

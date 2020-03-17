@@ -5,7 +5,7 @@ title: Practice self-compassion
 
 ---
  
- <h2 class="postheader"><a href="{{ site.baseurl }}/{{ page.url }}">{{ page.title }}</a></h2>
+ <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
 ![image]({{ site.baseurl }}/img/selfcompassion.jpg){:class="image-class"}{:.postimage}
