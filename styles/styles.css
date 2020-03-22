@@ -93,7 +93,12 @@
     font-family: 'Lato', sans-serif;
   }
 
- 
+.bookings {
+  max-width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 
  .hero-caption {
 
@@ -220,6 +225,8 @@ filter: grayscale(100%);
 
   color: #fff;
   padding: 40px 15px 15px 50px;
+  font-weight: normal;
+  
 
 }
 
@@ -340,7 +347,23 @@ margin-left: auto;
   }
 creates a margin for the container holding the icons*/
 
+.drfrapic {
 
+  
+    
+    float: right;
+    margin-top: 40px;
+    padding-left: 10px;
+    margin-right: 10px;
+    background: #2195D3;
+      padding:0.5rem 0.5rem;  
+      color: transparent;
+      outline:none;
+      box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
+      border:solid 2px #FFF;
+      border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+
+}
   #ThankyouBlock {
 
       background-color: #e8f3f9;
@@ -545,6 +568,7 @@ p.lead {
 
   font-size: 16px;
   padding-top: 15px;
+
 }
 
 h1.display-4 {
@@ -673,8 +697,11 @@ display: none;
 
 }
 
-  
 
+p.lead {
+  padding-bottom: 15px;
+  margin-bottom: 0;
+}
 
 
 }
