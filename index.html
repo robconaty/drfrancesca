@@ -156,7 +156,7 @@ title: Home
       <p class="testimonials">“The first time you put  me in front of the mirror I thought… What? Then I saw how broken I was and realised I needed to give that person a hug”
 </p>
     </div>
-    <div class="col-sm-4">
+    
       
        
     </div>
@@ -175,13 +175,13 @@ title: Home
  
  <!-- Hero Section-->
  
-<!--
+
 
 <div id="VideoBlock">
 <div class="container text-center">
   <div class="row">
-    <div class="col-md-12">
-      <h2 id="videoIntro">Hi there</h2>
+    
+      <h2 id="videoIntro">COVID-19 tips</h2>
       
 <br></br>
 
@@ -189,10 +189,11 @@ title: Home
     <div class="row">
     <div>
     <div>
- 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
---->
+<div class="youtube-responsive-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0Z4tjClYqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 </div>
 </div>
@@ -220,7 +221,7 @@ title: Home
     
     <div> {% assign truncatedContent = '' %}
  			{% assign paragraphs = post.content | split:'</p>' %}
-    		{% for paragraph in paragraphs limit: 4 %}
+    		{% for paragraph in paragraphs limit: 5 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
 
@@ -294,7 +295,7 @@ title: Home
     <a href="{{ site.baseurl }}/{{ post.url }}">
     <div> {% assign truncatedContent = '' %}
  			{% assign paragraphs = post.content | split:'</p>' %}
-    		{% for paragraph in paragraphs limit: 3 %}
+    		{% for paragraph in paragraphs limit: 4 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}

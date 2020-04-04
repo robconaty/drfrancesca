@@ -47,6 +47,8 @@
   color: #2195D3;
 }
 
+
+
   }
   
   #welcomehead {
@@ -94,10 +96,11 @@
   }
 
 .bookings {
-  max-width: 25%;
+  max-width: 40%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+
 }
 
  .hero-caption {
@@ -249,7 +252,7 @@ filter: grayscale(100%);
 
 .youtube-responsive-container {
 position:relative;
-padding-bottom:56.25%;
+padding-bottom:30%;
 padding-top:30px;
 height:0;
 overflow:hidden;
@@ -416,7 +419,8 @@ padding-right: 10px;
 #VideoBlock {
 
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
+  background-color: #f5fbfe;
 }
 
 
@@ -485,7 +489,7 @@ padding-right: 20px;
  #bluebookings {
   
  
- background-color: #f5fbfe;
+ 
  padding-top: 20px;
 
 }
@@ -537,12 +541,25 @@ padding-left: 10px;
 
 }
 
+@media (max-width: 1200px) {
+
+  .youtube-responsive-container {
+
+padding-bottom:40%;
+padding-left: 10px;
+padding-right: 10px;
+} 
+
+}
+
 @media (max-width: 900px) {
     .fa {
       font-size: 25px;
       padding: 10px;
       }
-    
+  
+
+
  
 #ThankyouBlock {
 
@@ -623,7 +640,12 @@ margin-top: 5px;
  
 }
 
+.youtube-responsive-container {
 
+padding-bottom:100%;
+padding-left: 10px;
+padding-right: 10px;
+}
 
 h4#Contact {
 
