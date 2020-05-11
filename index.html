@@ -109,7 +109,7 @@ title: Home
       <h4>Clinical supervision</h4>
       <p id="insurers">I'm available for clinical supervision and offer training on psychological trauma, attachment and personality disorders</p>
      
-
+s
       
 
        
@@ -221,7 +221,7 @@ title: Home
     
     <div> {% assign truncatedContent = '' %}
  			{% assign paragraphs = post.content | split:'</p>' %}
-    		{% for paragraph in paragraphs limit: 4 %}
+    		{% for paragraph in paragraphs limit: 5 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
 
@@ -295,7 +295,7 @@ title: Home
     <a href="{{ site.baseurl }}/{{ post.url }}">
     <div> {% assign truncatedContent = '' %}
  			{% assign paragraphs = post.content | split:'</p>' %}
-    		{% for paragraph in paragraphs limit: 5 %}
+    		{% for paragraph in paragraphs limit: 4 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}
