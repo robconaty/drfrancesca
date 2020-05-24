@@ -12,7 +12,7 @@ title: Why try Mirror Therapy?
 
 <p class="blogdate">25 May 2020</p>
 
-<p class="blogcopy">Mirror therapy (MIMT) is a new form of therapy which can help you to look at yourself in a compassionate, benevolent and non-critical way.</p> 
+<p class="blogcopy">Mirror Therapy (MIMT) is a new form of therapy which can help you to look at yourself in a compassionate, benevolent and non-critical way.</p> 
 
 <p class="blogcopy">Mirrors are very interesting objects. They are often associated with vanity and are often avoided in everyday life while in therapy they are can be used to discover the self!</p> 
 
@@ -26,7 +26,7 @@ title: Why try Mirror Therapy?
 
 <p class="blogcopy">In other words... In the same way we are very good at understanding our friends’ and family’s emotions just by looking at them (and thus we show love, affection, compassion, empathy to them) the MIMT aims to help people to look at themselves in a compassionate, benevolent and non-critical way. Just as if we were our best friends, the MIMT helps to understand and validate our emotions and experience tenderness and acceptance toward self, as this is a prerequisite for positive change.</p> 
 
-<p class="blogcopy">Contact me if you would like to know more or to try mirror therapy for yourself.
+<p class="blogcopy">Contact me if you would like to know more or to try Mirror Therapy for yourself.
 </p> 
 
 
