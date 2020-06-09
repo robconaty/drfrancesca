@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Dr Francesca
-title: Why try Mirror Therapy?
+title: New! Mirror Therapy
 
 ---
  
@@ -31,6 +31,7 @@ title: Why try Mirror Therapy?
 
 
 <p class="blogcopy"><a href="https://www.pexels.com/@jplenio?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels">Photo by Johannes Plenio, Pexels</a></p>
+
 
 
 <br>
