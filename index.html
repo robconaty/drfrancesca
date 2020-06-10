@@ -295,7 +295,7 @@ title: Home
     <a href="{{ site.baseurl }}/{{ post.url }}">
     <div> {% assign truncatedContent = '' %}
  			{% assign paragraphs = post.content | split:'</p>' %}
-    		{% for paragraph in paragraphs limit: 4 %}
+    		{% for paragraph in paragraphs limit: 5 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}
