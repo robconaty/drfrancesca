@@ -18,7 +18,7 @@ title: Cabin fever
 
 <p class="blogcopy">The cabin fever concept dates back to America's gold rush era, where prospectors, who were holed up for months in isolated log cabins, became distrustful of others and reported anxiety about returning to civilization.</p>  
 
-<p class="blogcopy">Signs of cabin fear are:</p> 
+<p class="blogcopy">Signs of cabin fever are:</p> 
 <p class="blogcopy">- Irritability, sadness, fear, tiredness, having difficulties getting up in the morning, having the need to rest often during the day poor concentration and memory, and</p> 
 <p class="blogcopy">- A lack of motivation to leave the house.</p>  
 
