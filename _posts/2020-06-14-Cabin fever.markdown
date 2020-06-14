@@ -24,10 +24,10 @@ title: Cabin fever
 
 <p class="blogcopy">Cabin fever tends to disappear or decrease over time, but it is possible to implement strategies to manage it as it is not a comfortable situation to be in.</p> 
 <p class="blogcopy">Here are a few effective strategies to overcome these feelings:</p> 
-<p class="blogcopy">- Give yourself time - take small steps and gradually increase the distance you venture away from home each day.</p> 
-<p class="blogcopy">- Accept your fear – this is a normal emotional phase following a long period of isolation</p> 
-<p class="blogcopy">- Be kind to yourself - do not be critical for feeling fear/anxiety.</p> 
-<p class="blogcopy">- Establish routines - our brains need routines to feel safe and reduce time spent ruminating. Consider, perhaps, spending less time in bed, sleeping during the day, set time for meals and time for a little walk.</p> 
+<p class="blogcopy">- Give yourself time. Take small steps and gradually increase the distance you venture away from home each day.</p> 
+<p class="blogcopy">- Accept your fear. This is a normal emotional phase following a long period of isolation</p> 
+<p class="blogcopy">- Be kind to yourself. Do not be critical for feeling fear/anxiety.</p> 
+<p class="blogcopy">- Establish routines. Our brains need routines to feel safe and reduce time spent ruminating. Consider, perhaps, spending less time in bed, sleeping during the day, set time for meals and time for a little walk.</p> 
 <p class="blogcopy">- Consider whether this experience could be transformed into a positive one. For instance, reflect on the value of the affects, the value of the essentials and on reducing the superfluous.</p> 
 <p class="blogcopy">It is important to say that cabin fever is not an illness! On the contrary, it is a normal adaptation and survival instinct. After a prolonged period of isolation, our brains have found security within the four walls of our homes! In addition, we must remember that Covid-19 is very much still with us and the (perceived) threat is out there! This fear can be triggered by many real factors including the possibility of contracting the virus or transmitting it to others.</p> 
 
