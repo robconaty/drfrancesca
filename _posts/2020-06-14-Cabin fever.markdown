@@ -24,7 +24,7 @@ title: Cabin fever
 
 <p class="blogcopy">Cabin fever tends to disappear or decrease over time, but it is possible to implement strategies to manage it as it is not a comfortable situation to be in.</p> 
 <p class="blogcopy">Here are a few effective strategies to overcome these feelings:</p> 
-<p class="blogcopy">Give yourself time - take small steps and gradually increase the distance you venture away from home each day.</p> 
+<p class="blogcopy">- Give yourself time - take small steps and gradually increase the distance you venture away from home each day.</p> 
 <p class="blogcopy">- Accept your fear – this is a normal emotional phase following a long period of isolation</p> 
 <p class="blogcopy">- Be kind to yourself - do not be critical for feeling fear/anxiety.</p> 
 <p class="blogcopy">- Establish routines - our brains need routines to feel safe and reduce time spent ruminating. Consider, perhaps, spending less time in bed, sleeping during the day, set time for meals and time for a little walk.</p> 
