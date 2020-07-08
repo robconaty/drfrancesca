@@ -260,7 +260,7 @@ title: Home
  			{% assign paragraphs = post.content | split:'</p>' %}
 
  			
-    		{% for paragraph in paragraphs limit: 5 %}
+    		{% for paragraph in paragraphs limit: 3 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}
