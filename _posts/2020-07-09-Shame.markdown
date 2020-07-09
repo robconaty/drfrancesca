@@ -16,7 +16,7 @@ title: Anatomy of shame
 
 <p class="blogcopy">Everyone experiences shame at some point. It’s an emotion with physical symptoms, that comes and goes and is designed to protect us against hurting others by motivating us not to repeat harmful actions. </p>
 
-<p class="blogcopy">However, in its severe form it can harm our self-image, disconnect us from others and contribute to deeper mental health issues like depression, anxiety, eating disorders and substance abuse. We become afraid to trust others because we are worried we might be hurt. We're afraid to go for that job because we might fail. We isolate ourselves in anxiety and guilt. We may be afraid that once they have found someone, we must maintain that relationship at all costs because we will never find anyone else. </p>
+<p class="blogcopy">However, in its severe form it can harm our self-image, disconnect us from others and contribute to deeper mental health issues like depression, anxiety, eating disorders and substance abuse. We become afraid to trust others because we are worried we might be hurt. We're afraid to go for that job because we might fail. We isolate ourselves in anxiety and guilt. We may be afraid that once we have found someone, we must maintain that relationship at all costs because we will never find anyone else. </p>
 
 <p class="blogcopy">To work effectively with shame, we have to understand its neurobiology. In order to sustain life, the body has two complementary nervous systems: the sympathetic
 (arousing) and the parasympathetic (calming). Both are needed not only for psychological balance but for survival.</p>
