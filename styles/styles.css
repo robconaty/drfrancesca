@@ -110,6 +110,7 @@ color: #fff;
 text-shadow: 1px 1px #424242;
  }
 
+
  ul.blogroll {
 
   list-style: none;
@@ -536,6 +537,13 @@ padding-left: 10px;
       display:block; 
       width: 100%;
       padding:15px 0 15px 0;
+
+    }
+
+    h1.hero-header {
+color: #FFFFFF;
+padding-left: 50px;
+font-size: 1.4em;
 
     }
 
