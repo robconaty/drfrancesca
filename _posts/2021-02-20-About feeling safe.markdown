@@ -2,6 +2,7 @@
 layout: post
 author: Dr Francesca
 title: About feeling safe
+group: "postnav"
 ---
  
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
@@ -9,6 +10,7 @@ title: About feeling safe
 
 ![image]({{ site.baseurl }}/img/aboutfeelingsafe.jpg){:class="image-class"}{:.postimage}
 
+<p class="blogdate">20 February 2021</p>
 
 The absence of danger isn't enough to feel safe. We experience safety when we feel connection with ourselves and others.
 
