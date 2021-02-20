@@ -279,7 +279,7 @@ description: Dr Francesca is a Clinical Psychologist in Birmingham, United Kingd
  			{% assign paragraphs = post.content | split:'</p>' %}
 
  			
-    		{% for paragraph in paragraphs limit: 4 %}
+    		{% for paragraph in paragraphs limit: 5 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}
