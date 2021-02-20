@@ -43,7 +43,7 @@
   a#teaser {
 
  
-  padding-left: 10px;
+  padding-left: 0px;
   color: #2195D3;
 }
 
@@ -245,7 +245,7 @@ filter: grayscale(100%);
 
   text-align: center;
   margin-top: auto;
-  padding-top: 50px;
+  padding-top: 0px;
 
 }
 
