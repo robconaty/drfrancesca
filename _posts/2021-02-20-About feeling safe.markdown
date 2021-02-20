@@ -2,7 +2,6 @@
 layout: post
 author: Dr Francesca
 title: About feeling safe
-group: "postnav"
 ---
  
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>

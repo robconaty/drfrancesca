@@ -2,7 +2,6 @@
 layout: post
 author: Dr Francesca
 title: Am I crazy?
-
 ---
  
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
@@ -12,17 +11,17 @@ title: Am I crazy?
 
 <p class="blogdate">08 June 2020</p>
 
-<p class="blogcopy">At his first session, one of my patients asked me 'do you think I am crazy'? He was experiencing a very high level of anxiety and was meticulously avoiding people and places.</p> 
+At his first session, one of my patients asked me 'do you think I am crazy'? He was experiencing a very high level of anxiety and was meticulously avoiding people and places. 
 
-<p class="blogcopy">After he shared his worries about mental health, we agreed to call 'it' 'wellbeing', which is nothing else than how we feel, how we think, how we behave, how we engage with others and ourselves, and the choices we make... And our feelings, thoughts, behaviours are influenced by our histories, which do not always give us the skills or the knowledge to experience our emotions. The good news is that therapy can help us to develop these missing ingredients.</p> 
+After he shared his worries about mental health, we agreed to call 'it' 'wellbeing', which is nothing else than how we feel, how we think, how we behave, how we engage with others and ourselves, and the choices we make... And our feelings, thoughts, behaviours are influenced by our histories, which do not always give us the skills or the knowledge to experience our emotions. The good news is that therapy can help us to develop these missing ingredients. 
 
-<p class="blogcopy"> It can help us to fully experience emotions without avoidance, criticism or even blame. Developing self-compassion is one of these ingredients.</p>
+It can help us to fully experience emotions without avoidance, criticism or even blame. Developing self-compassion is one of these ingredients.
 
-<p class="blogcopy">My patient is no longer afraid of leaving the house or of meeting people. His life is full of 'good stuff' and anxiety is no longer the enemy. </p> 
+My patient is no longer afraid of leaving the house or of meeting people. His life is full of 'good stuff' and anxiety is no longer the enemy.  
 
 
 
-<p class="blogcopy"><a href="https://www.pexels.com/photo/woman-s-face-3400813/">Photo by Elina Krima, Pexels</a></p>
+<a href="https://www.pexels.com/photo/woman-s-face-3400813/">Photo by Elina Krima, Pexels</a>
 
 
 <br>

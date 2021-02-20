@@ -2,7 +2,6 @@
 layout: post
 author: Dr Francesca
 title: Relax like your life depends on it
-
 ---
  
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
@@ -13,38 +12,38 @@ title: Relax like your life depends on it
 <p class="blogdate">26 December 2020</p>
 
 
-<p class="blogcopy"><strong>“Sometimes the most productive thing you can do is relax” Mark Black</strong></p>
+<strong>“Sometimes the most productive thing you can do is relax” Mark Black</strong>
 
-<p class="blogcopy">Often, we get so entangled in our busy lives  that we actually forget to relax! Yet relaxing for just for a few minutes by stepping away from what is causing our stress levels to rise, can give us the strength we need to address the problem we are facing.</p>
+Often, we get so entangled in our busy lives  that we actually forget to relax! Yet relaxing for just for a few minutes by stepping away from what is causing our stress levels to rise, can give us the strength we need to address the problem we are facing.
 
-<p class="blogcopy">Headaches, tension in the shoulders, dizziness, fatigue and poor sleep can all be physiological signs of stress overload. Stress can affect our mental health too resulting in worrying, poor concentration, procrastination and negative thoughts. You may also feel irritable, overwhelmed, anxious, low self-esteem and low in energy. As a result, long periods without relaxation make us more vulnerable to mental health problems.</p>
+Headaches, tension in the shoulders, dizziness, fatigue and poor sleep can all be physiological signs of stress overload. Stress can affect our mental health too resulting in worrying, poor concentration, procrastination and negative thoughts. You may also feel irritable, overwhelmed, anxious, low self-esteem and low in energy. As a result, long periods without relaxation make us more vulnerable to mental health problems.
 
-<p class="blogcopy">Of course, stress is part of life and we are not always able to avoid stress. That's why learning to manage stress is the solution.</p>
+Of course, stress is part of life and we are not always able to avoid stress. That's why learning to manage stress is the solution.
 
-<p class="blogcopy">Practicing mindfulness is paramount in managing stress. Being in the present moment helps us to have a calmer and clearer mind, aiding positive thinking, concentration, memory and decision making.</p>
+Practicing mindfulness is paramount in managing stress. Being in the present moment helps us to have a calmer and clearer mind, aiding positive thinking, concentration, memory and decision making.
 
-<p class="blogcopy">Set aside five minutes a few times during your day to reduce stress levels. Here are a few mindfulness actions that are quick and easy to take (and you can find many more on YouTube!).</p>
+Set aside five minutes a few times during your day to reduce stress levels. Here are a few mindfulness actions that are quick and easy to take (and you can find many more on YouTube!).
 
-<p class="blogcopy">- Focus on your breathing, notice how you are breathing in and out.</p>
+- Focus on your breathing, notice how you are breathing in and out.
 
-<p class="blogcopy">- Try paced breathing (Five breaths in and seven breaths out).</p>
+- Try paced breathing (Five breaths in and seven breaths out).
 
-<p class="blogcopy">- Try progressive muscle relaxation (tighten and relax your muscles throughout your body).</p>
+- Try progressive muscle relaxation (tighten and relax your muscles throughout your body).
 
-<p class="blogcopy">- Imagine a relaxing place and focus on the details (you can also use a photo, a picture, etc.).</p>
+- Imagine a relaxing place and focus on the details (you can also use a photo, a picture, etc.).
 
-<p class="blogcopy">- Take a gentle walk being mindful (notice the trees, the sunshine, the clouds, the noises and the smell around you).</p>
-
-
-<p class="blogcopy">It is really important to try to incorporate mindfulness into everyday life. There are so many simple and inexpensive ways to bring a little more calm into our lives. Listen to music, watch a film, have a cup of cocoa,  take a walk, read a book, be creative, talk to a friend (on skype/zoom or phone during lockdown), exercise, take a warm bath... whatever helps you to relieve stress from your mind and body.</p>
-
-<p class="blogcopy">Enjoy the moment!</p>
-
-<p class="blogcopy"><strong>Get in touch</strong>
-<p class="blogcopy">Send me a message <a href="https://drfrancesca.co.uk/contact">using my contact form.</a></p>
+- Take a gentle walk being mindful (notice the trees, the sunshine, the clouds, the noises and the smell around you).
 
 
-<p class="blogcopy"><a href="https://www.pexels.com/photo/apartment-contemporary-couch-doors-269155/">Photo by Pixabay</a></p>
+It is really important to try to incorporate mindfulness into everyday life. There are so many simple and inexpensive ways to bring a little more calm into our lives. Listen to music, watch a film, have a cup of cocoa,  take a walk, read a book, be creative, talk to a friend (on skype/zoom or phone during lockdown), exercise, take a warm bath... whatever helps you to relieve stress from your mind and body.
+
+Enjoy the moment!
+
+<strong>Get in touch</strong>
+Send me a message <a href="https://drfrancesca.co.uk/contact">using my contact form.</a>
+
+
+<a href="https://www.pexels.com/photo/apartment-contemporary-couch-doors-269155/">Photo by Pixabay</a>
 
 
 

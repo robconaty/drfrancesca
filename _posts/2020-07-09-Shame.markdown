@@ -2,7 +2,6 @@
 layout: post
 author: Dr Francesca
 title: Anatomy of shame
-
 ---
  
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
@@ -12,42 +11,42 @@ title: Anatomy of shame
 
 <p class="blogdate">09 July 2020</p>
 
-<p class="blogcopy">Intense shame is the number one emotion I hear about in my clinic, and there's a reason for that. I want to use this post to unpack exactly what makes shame  different from other emotions, why it can be so tough to let go of and how we psychologists can help you if you're struggling. </p>
+Intense shame is the number one emotion I hear about in my clinic, and there's a reason for that. I want to use this post to unpack exactly what makes shame  different from other emotions, why it can be so tough to let go of and how we psychologists can help you if you're struggling. 
 
-<p class="blogcopy">Everyone experiences shame at some point. It’s an emotion with physical symptoms, that comes and goes and is designed to protect us against hurting others by motivating us not to repeat harmful actions. </p>
+Everyone experiences shame at some point. It’s an emotion with physical symptoms, that comes and goes and is designed to protect us against hurting others by motivating us not to repeat harmful actions. 
 
-<p class="blogcopy">However, in its severe form it can harm our self-image, disconnect us from others and contribute to deeper mental health issues like depression, anxiety, eating disorders and substance abuse. We become afraid to trust others because we are worried we might be hurt. We're afraid to go for that job because we might fail. We isolate ourselves in anxiety and guilt. We may be afraid that once we have found someone, we must maintain that relationship at all costs because we will never find anyone else. </p>
+However, in its severe form it can harm our self-image, disconnect us from others and contribute to deeper mental health issues like depression, anxiety, eating disorders and substance abuse. We become afraid to trust others because we are worried we might be hurt. We're afraid to go for that job because we might fail. We isolate ourselves in anxiety and guilt. We may be afraid that once we have found someone, we must maintain that relationship at all costs because we will never find anyone else. 
 
-<p class="blogcopy">To work effectively with shame, we have to understand its neurobiology. In order to sustain life, the body has two complementary nervous systems: the sympathetic
-(arousing) and the parasympathetic (calming). Both are needed not only for psychological balance but for survival.</p>
+To work effectively with shame, we have to understand its neurobiology. In order to sustain life, the body has two complementary nervous systems: the sympathetic
+(arousing) and the parasympathetic (calming). Both are needed not only for psychological balance but for survival.
 
-<p class="blogcopy">Sympathetic gets its name from sym (= with) and pathos (=feelings). It gives us very strong feelings associated with fight or flight responses. Its main role is to mobilise us to respond to a given situation by fighting if we think we can defend ourself or fleeing if we're outmatched.</p>
+Sympathetic gets its name from sym (= with) and pathos (=feelings). It gives us very strong feelings associated with fight or flight responses. Its main role is to mobilise us to respond to a given situation by fighting if we think we can defend ourself or fleeing if we're outmatched.
 
-<p class="blogcopy">The parasympathetic gets its name from para, meaning against the above feelings. What it likes to
-do is relax and put us in the 'chill out mode'. It is activated when resting, breathing, feeding, and during sex.</p>
+The parasympathetic gets its name from para, meaning against the above feelings. What it likes to
+do is relax and put us in the 'chill out mode'. It is activated when resting, breathing, feeding, and during sex.
 
-<p class="blogcopy">Ideally there is a smooth balance between the two, a gentle collaboration. The sympathetic
-mobilises us and the parasympathetic calms us down.</p>
+Ideally there is a smooth balance between the two, a gentle collaboration. The sympathetic
+mobilises us and the parasympathetic calms us down.
 
-<p class="blogcopy">When everything works well, we feel great. However, an interesting thing happens when the sympathetic is activated for too long (let’s say when there is a prolonged exposure to a perceived threat). We get exhausted being in fight or flight state. When neither fighting nor fleeing can resolve the stress, the sympathetic arousal can get so extreme that it is too much for the body to handle. When stress is very great, we have a failsafe survival
-mechanism. The parasympathetic system spikes. It comes in so strongly that it overwhelms the sympathetic arousal and triggers a freeze state.</p>
+When everything works well, we feel great. However, an interesting thing happens when the sympathetic is activated for too long (let’s say when there is a prolonged exposure to a perceived threat). We get exhausted being in fight or flight state. When neither fighting nor fleeing can resolve the stress, the sympathetic arousal can get so extreme that it is too much for the body to handle. When stress is very great, we have a failsafe survival
+mechanism. The parasympathetic system spikes. It comes in so strongly that it overwhelms the sympathetic arousal and triggers a freeze state.
 
-<p class="blogcopy">This can be full collapse, disassociation, or a partial freeze such as an inability to think clearly or access words or emotions. This can be momentary, short term—such as a possum freezing and becoming reanimated after the predator leaves, or, in humans, it
-can continue indefinitely. When the sympathetic state drives the body in an unsustainable way, physiology demands some respite and it often comes in the form of shut-down (the 'emergency brake' as Porges describes it).</p>
+This can be full collapse, disassociation, or a partial freeze such as an inability to think clearly or access words or emotions. This can be momentary, short term—such as a possum freezing and becoming reanimated after the predator leaves, or, in humans, it
+can continue indefinitely. When the sympathetic state drives the body in an unsustainable way, physiology demands some respite and it often comes in the form of shut-down (the 'emergency brake' as Porges describes it).
 
-<p class="blogcopy"> When faced with shame, the brain reacts as if to a physical danger, and activates our nervous system generating the flight,fight or freeze response. The flight response triggers the feeling of needing to disappear, and people who have this response will try to become invisible. They will literally look smaller and their expressions become blank.</p>
+ When faced with shame, the brain reacts as if to a physical danger, and activates our nervous system generating the flight,fight or freeze response. The flight response triggers the feeling of needing to disappear, and people who have this response will try to become invisible. They will literally look smaller and their expressions become blank.
 
-<p class="blogcopy">In comparison, the fight response expresses itself as verbal and behavioural aggression by the embarrassed person towards the one who caused them to feel ashamed.</p>
+In comparison, the fight response expresses itself as verbal and behavioural aggression by the embarrassed person towards the one who caused them to feel ashamed.
 
-<p class="blogcopy">The freeze response is what normally occurs when people are faced with trauma where they feel trapped and powerless. The freeze response allows us to survive situations where intolerable things are happening to us.</p>
+The freeze response is what normally occurs when people are faced with trauma where they feel trapped and powerless. The freeze response allows us to survive situations where intolerable things are happening to us.
 
-<p class="blogcopy">The freeze response to shame upsets our ability to think clearly, which results in beliefs that we are stuck in a situation where we have no power because we have something wrong with us. It can cause us to believe that what is happening or has happened, is our fault. Clearly, situations such as childhood trauma and adult rape are never our fault. We have become victims of violence. </p>
+The freeze response to shame upsets our ability to think clearly, which results in beliefs that we are stuck in a situation where we have no power because we have something wrong with us. It can cause us to believe that what is happening or has happened, is our fault. Clearly, situations such as childhood trauma and adult rape are never our fault. We have become victims of violence. 
 
-<p class="blogcopy">Although your brain has sustained developmental damage from what may have happened to you as a child, thanks to neuroplasticity, your brain can adapt and learn new ways of thinking and behaving. There is a myriad of different ways to accomplish these brain changes. For example, when I ask my clients to look at themselves as part of <a href="https://drfrancesca.co.uk/2020/05/25/Try-mirror-therapy.html">mirror therapy</a>, the shame is immediately activated and we use a number of skills to help the brain develop new patterns and new ways of experiencing this uncomfortable emotion.</p>
+Although your brain has sustained developmental damage from what may have happened to you as a child, thanks to neuroplasticity, your brain can adapt and learn new ways of thinking and behaving. There is a myriad of different ways to accomplish these brain changes. For example, when I ask my clients to look at themselves as part of <a href="https://drfrancesca.co.uk/2020/05/25/Try-mirror-therapy.html">mirror therapy</a>, the shame is immediately activated and we use a number of skills to help the brain develop new patterns and new ways of experiencing this uncomfortable emotion.
 
-<p class="blogcopy">Help is available, so please do <a href="https://drfrancesca.co.uk/contact">contact me</a>. I look forward to working with you. </p>
+Help is available, so please do <a href="https://drfrancesca.co.uk/contact">contact me</a>. I look forward to working with you. 
 
-<p class="blogcopy"><a href="https://www.pexels.com/photo/close-up-portrait-photo-of-woman-with-her-head-resting-on-her-knuckles-2505189/">Photo by Sarah Deal, Pexels</a></p>
+<a href="https://www.pexels.com/photo/close-up-portrait-photo-of-woman-with-her-head-resting-on-her-knuckles-2505189/">Photo by Sarah Deal, Pexels</a>
 
 
 
