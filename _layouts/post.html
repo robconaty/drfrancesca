@@ -1,15 +1,22 @@
 ---
 layout: default
-title: post
+
 ---
+
+
+
+
+<h3 id="blogheader">From the blog</h3>
+<ul class="blogroll">
+  {% for post in site.posts limit:1 %}
+    
+    
+  {{ content }}
+  {% endfor %}
+</ul>
+
 <br>
 
- <p>{{ page.author }}</p>
 
-<p class="blogcopy">
-
-{{ content }}
-
-</p>
 
 
