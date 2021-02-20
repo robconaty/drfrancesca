@@ -61,6 +61,7 @@
 	padding-top: 80px;
 	display:inline-block;
 	position: absolute;
+
 }
 
   /*color of navigation links controlled below*/
@@ -93,6 +94,12 @@
   h1, h2, h3, p, ul.blogroll {
 
     font-family: 'Lato', sans-serif;
+
+  }
+
+  h2 a {
+
+    font-size: 0.8em;
   }
 
 .bookings {
@@ -465,6 +472,8 @@ padding-right: 20px;
 p {
   font-size: 1.1em;
   text-align: justify;
+
+
 }
 
 
@@ -544,6 +553,7 @@ padding-left: 10px;
 
     }
 
+
     h1.hero-header {
 color: #FFFFFF;
 padding-left: 50px;
@@ -551,9 +561,23 @@ font-size: 1.4em;
 
     }
 
+
+
 }
 
 @media (max-width: 1200px) {
+
+  p {
+
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+
+  a#teaser {
+
+ 
+  padding-left: 20px;
 
   .youtube-responsive-container {
 
@@ -570,7 +594,6 @@ padding-right: 10px;
       padding: 10px;
       }
   
-
 
  
 #ThankyouBlock {
@@ -645,6 +668,7 @@ margin-top: 5px;
     
     h1{ font-size: 1.5em;}
 
+
   .navbar-nav {
 
   padding-right: 0px;
@@ -693,6 +717,8 @@ h4#Contact {
 
 
  }
+
+
 
 
   h2 {
@@ -768,6 +794,10 @@ display: none;
 
 }
 
+p {
+
+      padding-left: 20px;
+    }
 
 p.lead {
   padding-bottom: 15px;
