@@ -126,6 +126,8 @@ text-shadow: 1px 1px #424242;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
   padding-top: 50px;
   padding-bottom:50px;
 
@@ -514,6 +516,7 @@ p {
 
   padding-top: 80px;
 
+
  }
  #bluebookings {
   
@@ -635,8 +638,7 @@ ul.blogroll {
 
   list-style: none;
   font-size: 1.1em;
-  margin-left:auto;
-  margin-right: auto;
+  
 
 
 
