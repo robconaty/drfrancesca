@@ -224,7 +224,22 @@ align-self: left;
 filter: grayscale(100%);
 
 }
-  
+
+/* To style the image caption / photo credit */
+img + em { 
+
+font-size: 0.7em;
+font-style: normal;
+
+
+}
+
+img + em a {
+ color: #808080;
+
+}
+
+
   
 .jumbotron {
   background-color: #444943;
