@@ -62,6 +62,14 @@
 	display:inline-block;
 	position: absolute;
 
+  border-bottom: 3px solid #2195D3;
+}
+
+.item img {
+
+    filter: brightness(50%);
+}
+
 }
 
   /*color of navigation links controlled below*/
@@ -196,10 +204,16 @@ h4#Contact {
     text-align: left;
     color: #fff;
     text-shadow: 2px 2px #424242;
+
     
 /*puts the carousel text in uppercase
     text-transform: uppercase; */
 }
+
+
+
+
+
 
 .display-4 {
     padding: 15px 15px 15px 50px;
@@ -359,11 +373,11 @@ margin-left: auto;
 }
 
 .navbar-default {
-  border-color: #2195D3;
+  border-bottom: 3px solid #2195D3;
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #2195D3;
+  border-bottom: 3px solid #2195D3;
 }
 
 
