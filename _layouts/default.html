@@ -22,10 +22,11 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=Rock+Salt&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/styles/styles.css"> 
+  <link rel="stylesheet" href="/styles/styles.css">
+  <link rel="stylesheet" href="/styles/footerstyles.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
- 
+
 
  <!-- Cookie Consent by https://www.CookieConsent.com -->
 <script type="text/javascript" src="//www.cookieconsent.com/releases/3.1.0/cookie-consent.js"></script>
@@ -79,54 +80,17 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
 
   </ul>
 </nav>
-           
-        
-       
+
+
+
 
   {{content}}
-   
+
 </div>
 </div>
 </div>
 
-
-<footer class="container-fluid">
-  <div class="row">
-    <div class="col-sm-4">
-      <section id="address">
-      <p id="insurers">
-      Dr Francesca Mantia-Conaty | Clinical Psychologist | <br>HCPC Registration PYL29750</p>
-      <br>
-      <p id="insurers">Accepting appointments in Moseley and central Birmingham
-    </section>
-      </div>
-
-
-
-
- <div class="container text-center">     
- <div class="col-sm-4">
-        <h4>Connect</h4>
-        <a href="https://www.linkedin.com/in/francesca-mantia-conaty-b8290415a/?originalSubdomain=uk" class="fa fa-linkedin"></a>
-        <a href="https://www.youtube.com/channel/UCcieJrf2jOmITxXjYmkjUNg" class="fa fa-youtube"></a>
-    </div>
-
-     <div class="col-sm-4">
-      <section id="termslinks">
-        <br>
-      <p><a class="termslink" href="/privacypolicy">Privacy policy</a> | <a class="termslink" href="/termsofservice">
-      Terms of service</a> | <a class="termslink" href="/cookiepolicy">
-      Cookie policy</a></p>
-      <p id="insurers">© Dr Francesca Mantia-Conaty, <script>document.write(new Date().getFullYear())</script></p>
-
-      <br>
-      
-    </section>
-      </div>
-
-  </div>
-
-</footer>
+{% include footer.html %}
 
 </body>
 </html>
