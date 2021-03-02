@@ -1,15 +1,16 @@
 <style>
 
-h4#Contact {
-  margin-left:15px;
-}
 
-label.p {
-  font-weight: normal;
-  width: 100%;
 
-}
 
+.container#formwrapper {
+    display: block;
+    max-width: 90%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
 
 .btn-primary#contactbutton {
   margin-top: 20px;
@@ -28,11 +29,6 @@ label.p {
 
 }
 
- .radioinline {
-   display: block;
-  overflow: none;
-   padding-right: 30px;
- }
 
 
 
@@ -42,17 +38,7 @@ label.p {
  margin-top: 100px;
 }
 
-.contactform {
 
-  text-align: center;
-
-
-}
-.form-group {
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 
   </style>
