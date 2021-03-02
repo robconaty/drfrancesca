@@ -1,0 +1,67 @@
+
+<br>
+<h3 id="thankyous">Get in touch</h3>
+
+<br>
+<p class="blogcopycentered">
+  Call me on <b>07863 184 410</b></p>
+  <p class="blogcopycentered">OR fill in my contact form and I'll be in touch soon.</p>
+
+
+<div class="container" id="formwrapper">
+<form id="gform" name="gform" target="hidden_iframe" onsubmit="submitted=true;" action="https://docs.google.com/forms/d/e/1FAIpQLSfoiKmDGyXLacyztpEZk8biIsKHq8npyaqX1z9H2DaflJCYJw/formResponse?">
+                  <div class="col-sm-6">
+                  <label for="entry.926787366"><p class="formlabel">Full name</p></label>
+                  <input type="text" name ="entry.926787366" class="form-control" id="entry.926787366" placeholder="Enter your name" required>
+</div>
+
+<div class="col-sm-6">
+<label for="entry.600006735"><p class="formlabel">Email</p></label>
+<input type="text" name ="entry.600006735" class="form-control" id="entry.600006735" aria-describedby="emailHelp" placeholder="Enter email" required>
+</div>
+
+
+
+
+
+
+<div class="col-sm-6" id="formlabel">
+<label for="entry.458601556"><p class="formlabel">Contact number</p></label>
+<input type="text" name ="entry.458601556" class="form-control" id="entry.458601556" placeholder="Enter your contact number" required>
+</div>
+
+<div class="col-sm-6" id="formlabel">
+<label for="entry.774122723"><p class="formlabel">How did you hear about me?</p></label>
+<input type="text" name ="entry.774122723" class="form-control" id="entry.774122723" placeholder="How did you hear about me?">
+</div>
+
+<div class="col-sm-12" id="formlabel">
+<label for="entry.1073566528"><p class="formlabel">Please enter your reasons for contacting me</p></label>
+<textarea name ="entry.1073566528" id="entry.1073566528" rows="8" cols="50" class="form-control" placeholder="Please enter your reasons for contacting me" required></textarea>
+</div>
+
+
+
+  <div class="col-sm-12" id="formlabel">
+
+<button type="submit" id="contactbutton" class="btn btn-primary">Submit</button>
+      </div>
+    </div>
+</form>
+
+
+<iframe name="hidden_iframe" style="display:none;" onload="if(submitted){}"></iframe>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"
+integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+crossorigin="anonymous"></script>
+<script type="text/javascript">
+var submitted = false;
+</script>
+<script type="text/javascript">
+  $('#gform').on('submit', function(e){
+    $('#gform *').fadeOut(500);
+    $('#gform').prepend('Thank you for your message. I will reply soon!').addClass('acknowledgement')
+});
+              </script>
+            <br>
+        </div>
