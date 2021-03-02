@@ -1,5 +1,20 @@
 <style>
-  
+
+
+
+.questionpair {
+  margin-left: auto;
+  margin-right: auto;
+  align: center;
+  max-width: 800px;
+
+}
+.contactformgroup {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
   .navbar {
     margin-bottom: 0;
     border-radius: 0;
@@ -9,7 +24,7 @@
 
   }
   .navbar-default {
-	  
+
 	  background-color: #fff;
   }
 
@@ -26,7 +41,7 @@
 }
 
   .navbar-default .navbar-nav .active a, a.active, .navbar-default .navbar-nav .active a:focus, .navbar-default .navbar-nav .active a:hover {
-    
+
     color: #555555;
      /*color of navigation bar background controlled below*/
 
@@ -42,7 +57,7 @@
 
   a#teaser {
 
- 
+
   padding-left: 0px;
   color: #2195D3;
 }
@@ -50,7 +65,7 @@
 
 
   }
-  
+
   #welcomehead {
   padding-top: 20px;
   padding-left: 150px;
@@ -70,7 +85,7 @@
 
     filter: brightness(50%);
     object-fit: cover;
-  
+
 }
 
 }
@@ -78,13 +93,13 @@
   /*color of navigation links controlled below*/
   .navbar-default .navbar-nav li a {
     color: #55555;
-    
+
   }
 
   .navbar-default .navbar-nav li a.active {
     color: #555555;
     padding-top: 21px;
-    
+
   }
 
   .navbar-nav .active a {
@@ -113,11 +128,11 @@
     font-size: 0.8em;
   }
 
-.bookings {
-  max-width: 40%;
+.form-group {
+  max-width: 60%;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  text-align: left;
 
 }
 
@@ -132,7 +147,7 @@ text-shadow: 1px 1px #424242;
  ul.blogroll {
 
   list-style: none;
-  
+
   text-align: justify;
   max-width: 600px;
   margin-left: auto;
@@ -148,7 +163,7 @@ h4#Contact {
   margin-left:15px;
 }
 
- 
+
  p.blogcopy {
 
   font-size: 1.1em;
@@ -158,9 +173,9 @@ h4#Contact {
   margin-right: auto;
   padding-left: 10px;
   padding-right: 10px;
- 
 
-  
+
+
    }
 
  p.blogcopycentered {
@@ -170,12 +185,22 @@ h4#Contact {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
- 
 
-  
+
+
    }
 
- 
+   p.formlabel {
+     font-weight: normal;
+     width: 100%;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     font-size: 1em;
+     margin-top: 5px;
+     margin-bottom: 0px;
+
+   }
+
 
 
 .aboutme {
@@ -208,7 +233,7 @@ h4#Contact {
     color: #fff;
     text-shadow: 2px 2px #424242;
 
-    
+
 /*puts the carousel text in uppercase
     text-transform: uppercase; */
 }
@@ -226,12 +251,12 @@ h4#Contact {
 
 font-family: 'lato';
 font-size:2em;
-  
+
 
 }
 
 img.image-class.postimage {
-  
+
 width: 100%;
 height: auto;
 max-width: 600px;
@@ -245,7 +270,7 @@ filter: grayscale(100%);
 }
 
 /* To style the image caption / photo credit */
-img + em { 
+img + em {
 
 font-size: 0.7em;
 font-style: normal;
@@ -259,7 +284,7 @@ img + em a {
 }
 
 
-  
+
 .jumbotron {
   background-color: #444943;
   margin-top: 50px;
@@ -272,14 +297,14 @@ img + em a {
   color: #fff;
   padding: 40px 15px 15px 50px;
   font-weight: normal;
-  
+
 
 }
 
   .servicelinks {
     position: relative;
     bottom: 0;
-   
+
   }
 
 .postheader {
@@ -395,14 +420,14 @@ creates a margin for the container holding the icons*/
 
 .drfrapic {
 
-  
-    
+
+
     float: right;
     margin-top: 40px;
     padding-left: 10px;
     margin-right: 10px;
     background: #2195D3;
-      padding:0.5rem 0.5rem;  
+      padding:0.5rem 0.5rem;
       color: transparent;
       outline:none;
       box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
@@ -423,7 +448,7 @@ creates a margin for the container holding the icons*/
   }
 
 #serviceBlock {
- 
+
   margin-top: 0px;
 
 
@@ -441,7 +466,7 @@ padding-bottom: 0;
   background: black;
   width: 100%;
   opacity: 0.1;
-  
+
 }
 
 
@@ -487,7 +512,7 @@ max-width: 600px;
  .testimonials {
 
   font-family: 'Lato', sans-serif;
-  font-size: 1.2em; 
+  font-size: 1.2em;
   text-align: center;
  }
 
@@ -525,7 +550,7 @@ p {
 
   text-align: center;
 
-  
+
 
  }
 
@@ -536,9 +561,9 @@ p {
 
  }
  #bluebookings {
-  
- 
- 
+
+
+
  padding-top: 20px;
 
 }
@@ -548,6 +573,14 @@ p {
   max-width: 200px;
   margin: 1% auto;
 }
+
+#serviceicon {
+  max-width: 2em;
+  padding-left: 0.5em;
+
+}
+
+
 
 footer {
   width: 100%;
@@ -580,14 +613,18 @@ padding-left: 10px;
     .jumbotron   { display:none; }
 }
 @media screen and (max-width: 600px) {
-    .jumbotron   { 
+    .jumbotron   {
 
-      display:block; 
+      display:block;
       width: 100%;
       padding:15px 0 15px 0;
 
     }
 
+#serviceicon {
+  display: none;
+  transform: rotate(90deg);
+}
 
     h1.hero-header {
 color: #FFFFFF;
@@ -606,7 +643,7 @@ font-size: 1.4em;
 
     padding-left: 20px;
     padding-right: 20px;
-    
+
   }
 
   p.blogdate {
@@ -617,7 +654,7 @@ font-size: 1.4em;
 
   a#teaser {
 
- 
+
   padding-left: 20px;
 
   .youtube-responsive-container {
@@ -625,7 +662,7 @@ font-size: 1.4em;
 padding-bottom:40%;
 padding-left: 10px;
 padding-right: 10px;
-} 
+}
 
 }
 
@@ -634,9 +671,9 @@ padding-right: 10px;
       font-size: 25px;
       padding: 10px;
       }
-  
 
- 
+
+
 #ThankyouBlock {
 
       background-color: #e8f3f9;
@@ -644,18 +681,18 @@ padding-right: 10px;
       padding-bottom: 20px;
       padding-left: 30px;
       padding-right: 30px
-      
+
 
   }
 
 
-  
+
 
 ul.blogroll {
 
   list-style: none;
   font-size: 1.1em;
-  
+
 
 
 
@@ -697,7 +734,7 @@ h1.display-4 {
 
   font-size: 20px;
   padding-top: 15px;
-  
+
 }
 
 h3#services, h3#thankyous {
@@ -706,14 +743,14 @@ margin-top: 5px;
 }
 
   @media (max-width: 600px) {
-    
+
     h1{ font-size: 1.5em;}
 
 
   .navbar-nav {
 
   padding-right: 0px;
- 
+
 }
 
 .youtube-responsive-container {
@@ -726,14 +763,14 @@ padding-right: 10px;
 h4#Contact {
 
     text-align: center;
-    
+
     margin-left: 0;
   }
 
 
 #welcometext, #welcometextform {
   padding-left: 10px;
-  
+
 }
 
 
@@ -746,8 +783,8 @@ h4#Contact {
     border-color: transparent;
 }
 
-    
-    
+
+
     #icon {
       max-width: 150px;
     }
@@ -765,14 +802,14 @@ h4#Contact {
   h2 {
       font-size: 1.7em;
     }
-	
+
 img#logo {
 
   max-width: 80%;
 }
 
 
-#myCarousel, #myCarouselSecondary { 
+#myCarousel, #myCarouselSecondary {
 display: none;
 }
 
@@ -783,7 +820,7 @@ display: none;
 
   margin-left: 35%;
 }
-    
+
   }
 
 
@@ -796,7 +833,7 @@ display: none;
  h3#thankyous {
 
       padding-top: 0px;
-      
+
   }
 
   h3#blogheader {
@@ -821,7 +858,7 @@ display: none;
 
 .bookings {
   max-width: 100%;
-  
+
 }
 
 
@@ -873,7 +910,7 @@ h1.display-4 {
 
 .bookings {
   max-width: 100%;
-  
+
 }
 
 
