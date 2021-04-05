@@ -621,6 +621,10 @@ padding-left: 10px;
 
     }
 
+  .navbar-default .navbar-toggle {
+      border: 1px solid #2195D3;
+    }
+
 #serviceicon {
   display: none;
   transform: rotate(90deg);
