@@ -1,0 +1,59 @@
+<style>
+
+
+#footerbox {
+  width: 100%;
+
+}
+
+#footercopy.col-sm-4 {
+
+  display: inline-block;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 80px;
+  font-family: 'Lato', sans-serif;
+  color: #FFF;
+
+}
+
+#footerparagraph a {
+
+  color: #FFF;
+  text-align: center;
+}
+
+
+#footerparagraph {
+  color: #FFF;
+  text-align: center;
+}
+
+
+.fa  {
+
+  padding-right: 10px;
+  padding-left:  10px;
+  font-size: 30px;
+  color: #FFF;
+}
+
+#footerwrapper.container-fluid {
+
+    background-color: #2195D3;
+}
+@media screen and (max-width: 800px){
+
+#footercopy.col-sm-4 {
+
+          display: list-item;
+          list-style-type: none;
+
+
+      }
+
+ }
+
+
+
+</style>

@@ -1,0 +1,44 @@
+<style>
+
+
+
+
+.container#formwrapper {
+    display: block;
+    max-width: 90%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+.btn-primary#contactbutton {
+  margin-top: 20px;
+  text-decoration: none;
+  color: #e8f3f9;
+  border: 5px;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  margin-left:0;
+
+
+}
+
+.btn-primary#contactbutton:hover {
+
+  color: #424242;
+
+}
+
+
+
+
+.acknowledgement {
+ text-align: center;
+ margin-bottom: 100px;
+ margin-top: 100px;
+}
+
+
+
+
+  </style>

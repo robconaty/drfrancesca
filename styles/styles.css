@@ -292,7 +292,7 @@ img + em a {
   padding-bottom: 10px;
 }
 
-.jumbotron p, h1.display-4 {
+.jumbotron p, h2.display-4 {
 
   color: #fff;
   padding: 40px 15px 15px 50px;
@@ -724,7 +724,7 @@ p.lead {
 
 
 
-h1.display-4 {
+h2.display-4 {
 
   padding-left: 15px;
   font-size: 18px;
@@ -734,7 +734,7 @@ h1.display-4 {
 }
 
 
-h1.display-4 {
+h2.display-4 {
 
   font-size: 20px;
   padding-top: 15px;
@@ -897,7 +897,7 @@ p.lead {
   margin-right: 40%;
 }
 
-h1.display-4 {
+h2.display-4 {
 
   padding-left: 15px;
   font-size: 18px;

@@ -1,5 +1,20 @@
 <style>
-  
+
+
+
+.questionpair {
+  margin-left: auto;
+  margin-right: auto;
+  align: center;
+  max-width: 800px;
+
+}
+.contactformgroup {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
   .navbar {
     margin-bottom: 0;
     border-radius: 0;
@@ -9,7 +24,7 @@
 
   }
   .navbar-default {
-	  
+
 	  background-color: #fff;
   }
 
@@ -26,7 +41,7 @@
 }
 
   .navbar-default .navbar-nav .active a, a.active, .navbar-default .navbar-nav .active a:focus, .navbar-default .navbar-nav .active a:hover {
-    
+
     color: #555555;
      /*color of navigation bar background controlled below*/
 
@@ -42,15 +57,15 @@
 
   a#teaser {
 
- 
-  padding-left: 10px;
+
+  padding-left: 0px;
   color: #2195D3;
 }
 
 
 
   }
-  
+
   #welcomehead {
   padding-top: 20px;
   padding-left: 150px;
@@ -61,18 +76,30 @@
 	padding-top: 80px;
 	display:inline-block;
 	position: absolute;
+	object-fit: cover;
+
+  border-bottom: 3px solid #2195D3;
+}
+
+.item img {
+
+    filter: brightness(50%);
+    object-fit: cover;
+
+}
+
 }
 
   /*color of navigation links controlled below*/
   .navbar-default .navbar-nav li a {
     color: #55555;
-    
+
   }
 
   .navbar-default .navbar-nav li a.active {
     color: #555555;
     padding-top: 21px;
-    
+
   }
 
   .navbar-nav .active a {
@@ -93,13 +120,19 @@
   h1, h2, h3, p, ul.blogroll {
 
     font-family: 'Lato', sans-serif;
+
   }
 
-.bookings {
-  max-width: 40%;
+  h2 a {
+
+    font-size: 0.8em;
+  }
+
+.form-group {
+  max-width: 60%;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  text-align: left;
 
 }
 
@@ -110,14 +143,17 @@ color: #fff;
 text-shadow: 1px 1px #424242;
  }
 
+
  ul.blogroll {
 
   list-style: none;
-  font-size: 1.1em;
+
   text-align: justify;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
   padding-top: 50px;
   padding-bottom:50px;
 
@@ -127,7 +163,7 @@ h4#Contact {
   margin-left:15px;
 }
 
- 
+
  p.blogcopy {
 
   font-size: 1.1em;
@@ -137,9 +173,9 @@ h4#Contact {
   margin-right: auto;
   padding-left: 10px;
   padding-right: 10px;
- 
 
-  
+
+
    }
 
  p.blogcopycentered {
@@ -149,12 +185,22 @@ h4#Contact {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
- 
 
-  
+
+
    }
 
- 
+   p.formlabel {
+     font-weight: normal;
+     width: 100%;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     font-size: 1em;
+     margin-top: 5px;
+     margin-bottom: 0px;
+
+   }
+
 
 
 .aboutme {
@@ -186,10 +232,16 @@ h4#Contact {
     text-align: left;
     color: #fff;
     text-shadow: 2px 2px #424242;
-    
+
+
 /*puts the carousel text in uppercase
     text-transform: uppercase; */
 }
+
+
+
+
+
 
 .display-4 {
     padding: 15px 15px 15px 50px;
@@ -199,12 +251,12 @@ h4#Contact {
 
 font-family: 'lato';
 font-size:2em;
-  
+
 
 }
 
 img.image-class.postimage {
-  
+
 width: 100%;
 height: auto;
 max-width: 600px;
@@ -216,8 +268,23 @@ align-self: left;
 filter: grayscale(100%);
 
 }
-  
-  
+
+/* To style the image caption / photo credit */
+img + em {
+
+font-size: 0.7em;
+font-style: normal;
+
+
+}
+
+img + em a {
+ color: #808080;
+
+}
+
+
+
 .jumbotron {
   background-color: #444943;
   margin-top: 50px;
@@ -225,26 +292,26 @@ filter: grayscale(100%);
   padding-bottom: 10px;
 }
 
-.jumbotron p, h1.display-4 {
+.jumbotron p, h2.display-4 {
 
   color: #fff;
   padding: 40px 15px 15px 50px;
   font-weight: normal;
-  
+
 
 }
 
   .servicelinks {
     position: relative;
     bottom: 0;
-   
+
   }
 
 .postheader {
 
   text-align: center;
   margin-top: auto;
-  padding-top: 50px;
+  padding-top: 0px;
 
 }
 
@@ -334,11 +401,11 @@ margin-left: auto;
 }
 
 .navbar-default {
-  border-color: #2195D3;
+  border-bottom: 3px solid #2195D3;
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #2195D3;
+  border-bottom: 3px solid #2195D3;
 }
 
 
@@ -353,14 +420,14 @@ creates a margin for the container holding the icons*/
 
 .drfrapic {
 
-  
-    
+
+
     float: right;
     margin-top: 40px;
     padding-left: 10px;
     margin-right: 10px;
     background: #2195D3;
-      padding:0.5rem 0.5rem;  
+      padding:0.5rem 0.5rem;
       color: transparent;
       outline:none;
       box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
@@ -381,7 +448,7 @@ creates a margin for the container holding the icons*/
   }
 
 #serviceBlock {
- 
+
   margin-top: 0px;
 
 
@@ -399,7 +466,7 @@ padding-bottom: 0;
   background: black;
   width: 100%;
   opacity: 0.1;
-  
+
 }
 
 
@@ -410,7 +477,7 @@ color: #2195D3;
 margin-right: auto;
 margin-left:auto;
 max-width: 600px;
-padding-right: 10px;
+
 
 
 
@@ -445,7 +512,8 @@ padding-right: 10px;
  .testimonials {
 
   font-family: 'Lato', sans-serif;
-  font-size: 1.2em; 
+  font-size: 1.2em;
+  text-align: center;
  }
 
  .biography {
@@ -460,7 +528,12 @@ padding-right: 20px;
 }
 
 
+p {
+  font-size: 1.1em;
+  text-align: justify;
 
+
+}
 
 
 
@@ -477,7 +550,7 @@ padding-right: 20px;
 
   text-align: center;
 
-  
+
 
  }
 
@@ -485,11 +558,12 @@ padding-right: 20px;
 
   padding-top: 80px;
 
+
  }
  #bluebookings {
-  
- 
- 
+
+
+
  padding-top: 20px;
 
 }
@@ -499,6 +573,14 @@ padding-right: 20px;
   max-width: 200px;
   margin: 1% auto;
 }
+
+#serviceicon {
+  max-width: 2em;
+  padding-left: 0.5em;
+
+}
+
+
 
 footer {
   width: 100%;
@@ -531,24 +613,60 @@ padding-left: 10px;
     .jumbotron   { display:none; }
 }
 @media screen and (max-width: 600px) {
-    .jumbotron   { 
+    .jumbotron   {
 
-      display:block; 
+      display:block;
       width: 100%;
       padding:15px 0 15px 0;
 
     }
 
+  .navbar-default .navbar-toggle {
+      border: 1px solid #2195D3;
+    }
+
+#serviceicon {
+  display: none;
+  transform: rotate(90deg);
+}
+
+    h1.hero-header {
+color: #FFFFFF;
+padding-left: 50px;
+font-size: 1.4em;
+
+    }
+
+
+
 }
 
 @media (max-width: 1200px) {
+
+  p {
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+  }
+
+  p.blogdate {
+
+    padding-right: 20px;
+
+  }
+
+  a#teaser {
+
+
+  padding-left: 20px;
 
   .youtube-responsive-container {
 
 padding-bottom:40%;
 padding-left: 10px;
 padding-right: 10px;
-} 
+}
 
 }
 
@@ -557,10 +675,9 @@ padding-right: 10px;
       font-size: 25px;
       padding: 10px;
       }
-  
 
 
- 
+
 #ThankyouBlock {
 
       background-color: #e8f3f9;
@@ -568,19 +685,18 @@ padding-right: 10px;
       padding-bottom: 20px;
       padding-left: 30px;
       padding-right: 30px
-      
+
 
   }
 
 
-  
+
 
 ul.blogroll {
 
   list-style: none;
   font-size: 1.1em;
-  margin-left:auto;
-  margin-right: auto;
+
 
 
 
@@ -601,13 +717,14 @@ p.lead {
   margin-bottom: 0;
   margin-right: 50%;
   padding-left: 15px;
+  text-align: left;
 
 }
 
 
 
 
-h1.display-4 {
+h2.display-4 {
 
   padding-left: 15px;
   font-size: 18px;
@@ -617,11 +734,11 @@ h1.display-4 {
 }
 
 
-h1.display-4 {
+h2.display-4 {
 
   font-size: 20px;
   padding-top: 15px;
-  
+
 }
 
 h3#services, h3#thankyous {
@@ -630,13 +747,14 @@ margin-top: 5px;
 }
 
   @media (max-width: 600px) {
-    
+
     h1{ font-size: 1.5em;}
+
 
   .navbar-nav {
 
   padding-right: 0px;
- 
+
 }
 
 .youtube-responsive-container {
@@ -649,14 +767,14 @@ padding-right: 10px;
 h4#Contact {
 
     text-align: center;
-    
+
     margin-left: 0;
   }
 
 
 #welcometext, #welcometextform {
   padding-left: 10px;
-  
+
 }
 
 
@@ -669,8 +787,8 @@ h4#Contact {
     border-color: transparent;
 }
 
-    
-    
+
+
     #icon {
       max-width: 150px;
     }
@@ -683,17 +801,19 @@ h4#Contact {
  }
 
 
+
+
   h2 {
       font-size: 1.7em;
     }
-	
+
 img#logo {
 
   max-width: 80%;
 }
 
 
-#myCarousel, #myCarouselSecondary { 
+#myCarousel, #myCarouselSecondary {
 display: none;
 }
 
@@ -704,7 +824,7 @@ display: none;
 
   margin-left: 35%;
 }
-    
+
   }
 
 
@@ -717,7 +837,7 @@ display: none;
  h3#thankyous {
 
       padding-top: 0px;
-      
+
   }
 
   h3#blogheader {
@@ -742,7 +862,7 @@ display: none;
 
 .bookings {
   max-width: 100%;
-  
+
 }
 
 
@@ -756,6 +876,10 @@ display: none;
 
 }
 
+p {
+
+      padding-left: 20px;
+    }
 
 p.lead {
   padding-bottom: 15px;
@@ -763,6 +887,7 @@ p.lead {
   margin-right: 50%;
   padding-left: 15px;
   font-size: 14px;
+  text-align: left;
 
 }
 
@@ -772,7 +897,7 @@ p.lead {
   margin-right: 40%;
 }
 
-h1.display-4 {
+h2.display-4 {
 
   padding-left: 15px;
   font-size: 18px;
@@ -789,7 +914,7 @@ h1.display-4 {
 
 .bookings {
   max-width: 100%;
-  
+
 }
 
 
