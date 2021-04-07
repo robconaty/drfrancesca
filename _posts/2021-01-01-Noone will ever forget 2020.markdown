@@ -3,12 +3,12 @@ layout: post
 author: Dr Francesca
 title: When life gives you lemons
 ---
- 
+
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
 
-![image]({{ site.baseurl }}/img/lemons.jpg){:class="image-class"}{:.postimage}*<a href="https://www.pexels.com/photo/aroma-beverage-blur-citrus-96974/">Credit: PhotoMIX Company, Pexels</a>*
+![image]({{ site.baseurl }}/img/lemons.jpg){:class="image-class"}{:alt="Lemonade"}{:.postimage}*<a href="https://www.pexels.com/photo/aroma-beverage-blur-citrus-96974/">Credit: PhotoMIX Company, Pexels</a>*
 
 <p class="blogdate">01 January 2021</p>
 

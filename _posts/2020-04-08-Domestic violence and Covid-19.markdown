@@ -3,23 +3,23 @@ layout: post
 author: Dr Francesca
 title: Abuse and Covid-19
 ---
- 
+
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/domesticviolence.jpg){:class="image-class"}{:.postimage}
+![image]({{ site.baseurl }}/img/domesticviolence.jpg){:class="image-class"}{:alt="Domestic violence"}{:.postimage}
 
 <p class="blogdate">08 April 2020</p>
 
-‘I always approach him with great caution, as you would a caged lion!’  It’s an account that is especially familiar to many domestic violence victims right now, as they long for some time apart from their abusers once the Covid-19 lockdown ends. 
+‘I always approach him with great caution, as you would a caged lion!’  It’s an account that is especially familiar to many domestic violence victims right now, as they long for some time apart from their abusers once the Covid-19 lockdown ends.
 
 Staying at home can be difficult and worrying for everyone and it can be a a dangerous nightmare for those living with abusers. Victims have reported how Covid-19 is used by their abusive partners to further control and abuse and it is impacting their access to services in the community such as shelter and psychological therapies.  
 
 On 6 April, the charity Refuge announced that the national domestic abuse helpline saw a 25% increase in calls and online requests for help since the lockdown. More than 25 organisations helping domestic violence victims have reported an increase in their caseload since the start of the UK’s coronavirus epidemic. In China’s Hubei province, where the virus was first detected, domestic violence reports to police more than tripled during the lockdown in February.
 
-With the country shut down, victims may assume there’s nowhere to go for help. That’s not the case. It's important to know that you are not alone and helplines are working very hard to support you during this very difficult time. 
+With the country shut down, victims may assume there’s nowhere to go for help. That’s not the case. It's important to know that you are not alone and helplines are working very hard to support you during this very difficult time.
 
-The Home Office has also published <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-and-domestic-abuse"> guidance </a>for those experiencing or feel at risk of domestic abuse during the coronavirus (COVID-19) outbreak. 
+The Home Office has also published <a href="https://www.gov.uk/government/publications/coronavirus-covid-19-and-domestic-abuse"> guidance </a>for those experiencing or feel at risk of domestic abuse during the coronavirus (COVID-19) outbreak.
 
 As always, if you or someone else is in immediate danger please call 999 and ask for the police. Silent calls will work if you are not safe to speak – call 999 and then press 55.
 
@@ -27,11 +27,11 @@ SafeLives has also published <a href="https://safelives.org.uk/staying-safe-duri
 
 Other support:
 
--	<a href="https://www.nationaldahelpline.org.uk/">The National Domestic Abuse Helpline</a> website provides guidance and support for potential victims, as well as those who are worried about friends and loved ones. They can also be called, for free and in confidence, 24 hours a day on 0808 2000 247. 
+-	<a href="https://www.nationaldahelpline.org.uk/">The National Domestic Abuse Helpline</a> website provides guidance and support for potential victims, as well as those who are worried about friends and loved ones. They can also be called, for free and in confidence, 24 hours a day on 0808 2000 247.
 
 -	Support is available from Women's Aid's online chat service, open from 10am-12pm Monday-Friday.
 
--	<a href="https://chayn.co/">Chayn</a> provides online tools, information, courses and support. They are also launching a secure Telegram channel to provide particular support during this time. 
+-	<a href="https://chayn.co/">Chayn</a> provides online tools, information, courses and support. They are also launching a secure Telegram channel to provide particular support during this time.
 
 -	<a href="http://www.mensadviceline.org.uk/">The Men’s Advice Line</a> is a confidential helpline for male victims of domestic abuse and those supporting them. Call 0808 801 0327.
 

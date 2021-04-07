@@ -3,19 +3,19 @@ layout: post
 author: Dr Francesca
 title: Hug power
 ---
- 
+
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/hugpower.jpg){:class="image-class"}{:.postimage}
+![image]({{ site.baseurl }}/img/hugpower.jpg){:class="image-class"}{:alt="A big hug"}{:.postimage}
 
 <p class="blogdate">23 July 2020</p>
 
-Years back, when my best friend had her first child she picked up every parenting book she could lay her hands on. Of course, all of the ‘gurus’ offer different advice and she found it a bewildering experience. So she asked me for the secret of good parenting. ‘Simple’, I said ‘hold your child with care’. I don’t think I impressed her with my answer. It wasn’t too scientific. But it’s true. Everyone needs to feel a positive human connection and its absence leaves a scar on our mental well-being that I have observed time and time again in my clinical practice. 
+Years back, when my best friend had her first child she picked up every parenting book she could lay her hands on. Of course, all of the ‘gurus’ offer different advice and she found it a bewildering experience. So she asked me for the secret of good parenting. ‘Simple’, I said ‘hold your child with care’. I don’t think I impressed her with my answer. It wasn’t too scientific. But it’s true. Everyone needs to feel a positive human connection and its absence leaves a scar on our mental well-being that I have observed time and time again in my clinical practice.
 
 Clients of mine, who have suffered abuse or trauma in childhood or in later life, often report the same thing. They freeze when someone close to them comes too near or tries to hug or comfort them. They actually become more stressed and more anxious than before. Those who are fortunate enough to have been nurtured and cared for throughout their lives generally respond in the opposite way. A hug relieves anxiety. It reassures and can make problems seem to evaporate. So, our past experiences actually change our physiological response to human affection.  
 
-You see, in a healthy person, a hug from a partner, friend or loved one releases the hormone oxytocin. Increased levels of oxytocin trigger happiness and alleviate anxiety as the oxytocin decreases levels of cortisol which is the hormone that shows up when we’re stressed. 
+You see, in a healthy person, a hug from a partner, friend or loved one releases the hormone oxytocin. Increased levels of oxytocin trigger happiness and alleviate anxiety as the oxytocin decreases levels of cortisol which is the hormone that shows up when we’re stressed.
 
 In someone who has suffered trauma or abuse, however, physical contact may stimulate fear and anxiety as a defence mechanism, acquired through negative past experiences. For them, physical proximity is associated with social rejection, which triggers the release of cortisol and other stress hormones. This engenders hyper alertness, motivation and fear – the body’s natural alarm system.
 
@@ -23,7 +23,7 @@ The good news? It is possible to change how we respond to physical affection. As
 
 For different reasons, in therapy we are not allowed to hug our clients, but if they agree to it as part of <a href="https://drfrancesca.co.uk/2020/05/25/Try-mirror-therapy.html">mirror therapy</a>, I will place my hand on their shoulder when they feel very distressed. It is incredible how a simple touch by someone who you trust can be so powerful in reducing the level of stress and preparing a person to accept support. What happens here is totally common sense and has a biological component behind it (the release of oxytocin which reduces the levels of cortisol).
 
-If you are looking to work through emotional attachment issues, help is available, so please do <a href="https://drfrancesca.co.uk/contact">contact me</a>. I look forward to working with you. 
+If you are looking to work through emotional attachment issues, help is available, so please do <a href="https://drfrancesca.co.uk/contact">contact me</a>. I look forward to working with you.
 
 <a href="https://www.pexels.com/photo/smiling-woman-hugging-another-person-2292932/">Photo by Artem Beliaikin, Pexels</a>
 

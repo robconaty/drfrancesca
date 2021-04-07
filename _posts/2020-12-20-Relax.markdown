@@ -3,11 +3,11 @@ layout: post
 author: Dr Francesca
 title: Relax like your life depends on it
 ---
- 
+
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/relax.jpg){:class="image-class"}{:.postimage}*<a href="https://www.pexels.com/photo/apartment-contemporary-couch-doors-269155/">Credit: Pixabay, Pexels</a>*
+![image]({{ site.baseurl }}/img/relax.jpg){:class="image-class"}{:alt="Relaxing"}{:.postimage}*<a href="https://www.pexels.com/photo/apartment-contemporary-couch-doors-269155/">Credit: Pixabay, Pexels</a>*
 
 <p class="blogdate">26 December 2020</p>
 

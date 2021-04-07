@@ -3,11 +3,11 @@ layout: post
 author: Dr Francesca
 title: About feeling safe
 ---
- 
+
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/aboutfeelingsafe.jpg){:class="image-class"}{:.postimage}*<a href="https://www.pexels.com/photo/young-asian-female-looking-at-reflection-4333559/">Credit: Jessica Ticozzelli, Pexels</a>*
+![image]({{ site.baseurl }}/img/aboutfeelingsafe.jpg){:class="image-class"}{:alt="Looking in mirror"}{:.postimage}*<a href="https://www.pexels.com/photo/young-asian-female-looking-at-reflection-4333559/">Credit: Jessica Ticozzelli, Pexels</a>*
 
 
 
@@ -22,7 +22,7 @@ Dr Stephen Porges (2006) suggests that our primary goal is to socially engage. I
 
 In environments where abuse and neglect occur, the instinctive drive towards social engagement is too dangerous to pursue, so our nervous system automatically engages our fight or flight response to keep us safe. And, if fighting or flying is not an option, then a third response will involuntarily engage and this involves collapsing, withdrawing or what’s described as ‘feigning death’. This response will often be seen with people who are victim of trauma.
 
-If a person’s nervous system has not experienced safety, then the social engagement system is by-passed in order to engage in protective survival–based responses.  Consequentially, people who have experienced complex relational trauma will often struggle to socially engage as their nervous system wired to defend against threats. 
+If a person’s nervous system has not experienced safety, then the social engagement system is by-passed in order to engage in protective survival–based responses.  Consequentially, people who have experienced complex relational trauma will often struggle to socially engage as their nervous system wired to defend against threats.
 
 The social engagement that builds bonds, can only occur in safe conditions. That’s why, to help my clients move from a threat response to social engagement I first try to establish safety. This is something we actively work on as part of <a href="https://drfrancesca.co.uk/2020/05/25/Try-mirror-therapy.html">mirror therapy</a>. This happens when the therapist’s compassionate bearing helps the patient to reconnect with the suffering self.
 
@@ -32,9 +32,3 @@ A perception of safety is something we need to take into account when caring for
 <strong>Get in touch</strong>
 
 Send me a message <a href="https://drfrancesca.co.uk/contact">using my contact form.</a>
-
-
-
-
-
-

@@ -3,19 +3,19 @@ layout: post
 author: Dr Francesca
 title: Anatomy of shame
 ---
- 
+
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/shame.jpg){:class="image-class"}{:.postimage}
+![image]({{ site.baseurl }}/img/shame.jpg){:class="image-class"}{:alt="Feeling shame"}{:.postimage}
 
 <p class="blogdate">09 July 2020</p>
 
-Intense shame is the number one emotion I hear about in my clinic, and there's a reason for that. I want to use this post to unpack exactly what makes shame  different from other emotions, why it can be so tough to let go of and how we psychologists can help you if you're struggling. 
+Intense shame is the number one emotion I hear about in my clinic, and there's a reason for that. I want to use this post to unpack exactly what makes shame  different from other emotions, why it can be so tough to let go of and how we psychologists can help you if you're struggling.
 
-Everyone experiences shame at some point. It’s an emotion with physical symptoms, that comes and goes and is designed to protect us against hurting others by motivating us not to repeat harmful actions. 
+Everyone experiences shame at some point. It’s an emotion with physical symptoms, that comes and goes and is designed to protect us against hurting others by motivating us not to repeat harmful actions.
 
-However, in its severe form it can harm our self-image, disconnect us from others and contribute to deeper mental health issues like depression, anxiety, eating disorders and substance abuse. We become afraid to trust others because we are worried we might be hurt. We're afraid to go for that job because we might fail. We isolate ourselves in anxiety and guilt. We may be afraid that once we have found someone, we must maintain that relationship at all costs because we will never find anyone else. 
+However, in its severe form it can harm our self-image, disconnect us from others and contribute to deeper mental health issues like depression, anxiety, eating disorders and substance abuse. We become afraid to trust others because we are worried we might be hurt. We're afraid to go for that job because we might fail. We isolate ourselves in anxiety and guilt. We may be afraid that once we have found someone, we must maintain that relationship at all costs because we will never find anyone else.
 
 To work effectively with shame, we have to understand its neurobiology. In order to sustain life, the body has two complementary nervous systems: the sympathetic
 (arousing) and the parasympathetic (calming). Both are needed not only for psychological balance but for survival.
@@ -40,11 +40,11 @@ In comparison, the fight response expresses itself as verbal and behavioural agg
 
 The freeze response is what normally occurs when people are faced with trauma where they feel trapped and powerless. The freeze response allows us to survive situations where intolerable things are happening to us.
 
-The freeze response to shame upsets our ability to think clearly, which results in beliefs that we are stuck in a situation where we have no power because we have something wrong with us. It can cause us to believe that what is happening or has happened, is our fault. Clearly, situations such as childhood trauma and adult rape are never our fault. We have become victims of violence. 
+The freeze response to shame upsets our ability to think clearly, which results in beliefs that we are stuck in a situation where we have no power because we have something wrong with us. It can cause us to believe that what is happening or has happened, is our fault. Clearly, situations such as childhood trauma and adult rape are never our fault. We have become victims of violence.
 
 Although your brain has sustained developmental damage from what may have happened to you as a child, thanks to neuroplasticity, your brain can adapt and learn new ways of thinking and behaving. There is a myriad of different ways to accomplish these brain changes. For example, when I ask my clients to look at themselves as part of <a href="https://drfrancesca.co.uk/2020/05/25/Try-mirror-therapy.html">mirror therapy</a>, the shame is immediately activated and we use a number of skills to help the brain develop new patterns and new ways of experiencing this uncomfortable emotion.
 
-Help is available, so please do <a href="https://drfrancesca.co.uk/contact">contact me</a>. I look forward to working with you. 
+Help is available, so please do <a href="https://drfrancesca.co.uk/contact">contact me</a>. I look forward to working with you.
 
 <a href="https://www.pexels.com/photo/close-up-portrait-photo-of-woman-with-her-head-resting-on-her-knuckles-2505189/">Photo by Sarah Deal, Pexels</a>
 

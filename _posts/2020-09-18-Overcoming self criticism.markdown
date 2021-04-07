@@ -3,11 +3,11 @@ layout: post
 author: Dr Francesca
 title: Overcoming self-criticism with mirror therapy
 ---
- 
+
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/selfcriticism.jpg){:class="image-class"}{:.postimage}
+![image]({{ site.baseurl }}/img/selfcriticism.jpg){:class="image-class"}{:alt="Introspection"}{:.postimage}
 
 <p class="blogdate">18 September 2020</p>
 

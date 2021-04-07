@@ -3,11 +3,11 @@ layout: post
 author: Dr Francesca
 title: Embrace your worries
 ---
- 
+
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/greyscale-photography-of-woman-wearing-long-sleeved-top-736843.jpg){:class="image-class"}{:.postimage}
+![image]({{ site.baseurl }}/img/greyscale-photography-of-woman-wearing-long-sleeved-top-736843.jpg){:class="image-class"}{:alt="Portrait of a woman"}{:.postimage}
 
 <p class="blogdate">04 April 2020</p>
 
