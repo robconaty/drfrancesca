@@ -7,7 +7,7 @@ title: What clients say about mirror therapy
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/reflectiveman.jpg){:class="image-class"}{:alt="Self reflection"}{:.postimage}
+![image]({{ site.baseurl }}/img/reflectiveman.jpg){:class="image-class"}{:alt="Self reflection"}{:title="Self reflection"}{:.postimage}
 
 <p class="blogdate">14 November 2020</p>
 

@@ -7,7 +7,7 @@ title: New! Mirror Therapy
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/mimt.jpg){:class="image-class"}{:alt="Mirror therapy"}{:.postimage}
+![image]({{ site.baseurl }}/img/mimt.jpg){:class="image-class"}{:alt="Mirror therapy"}{:title="Mirror therapy"}{:.postimage}
 
 <p class="blogdate">25 May 2020</p>
 

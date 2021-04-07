@@ -7,7 +7,7 @@ title: Hug power
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/hugpower.jpg){:class="image-class"}{:alt="A big hug"}{:.postimage}
+![image]({{ site.baseurl }}/img/hugpower.jpg){:class="image-class"}{:alt="A big hug"}{:title="A big hug"}{:.postimage}
 
 <p class="blogdate">23 July 2020</p>
 

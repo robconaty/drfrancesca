@@ -7,7 +7,7 @@ title: Men face abuse too
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/maleabusevictims.jpg){:class="image-class"}{:alt="Domestic abuse against men"}{:.postimage}
+![image]({{ site.baseurl }}/img/maleabusevictims.jpg){:class="image-class"}{:alt="Domestic abuse against men"}{:title="Domestic abuse against men"}{:.postimage}
 
 <p class="blogdate">25 June 2020</p>
 

@@ -7,7 +7,7 @@ title: About feeling safe
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/aboutfeelingsafe.jpg){:class="image-class"}{:alt="Looking in mirror"}{:.postimage}*<a href="https://www.pexels.com/photo/young-asian-female-looking-at-reflection-4333559/">Credit: Jessica Ticozzelli, Pexels</a>*
+![image]({{ site.baseurl }}/img/aboutfeelingsafe.jpg){:class="image-class"}{:alt="Looking in mirror"}{:title="Looking in mirror"}{:.postimage}*<a href="https://www.pexels.com/photo/young-asian-female-looking-at-reflection-4333559/">Credit: Jessica Ticozzelli, Pexels</a>*
 
 
 

@@ -8,7 +8,7 @@ title: When life gives you lemons
 
 
 
-![image]({{ site.baseurl }}/img/lemons.jpg){:class="image-class"}{:alt="Lemonade"}{:.postimage}*<a href="https://www.pexels.com/photo/aroma-beverage-blur-citrus-96974/">Credit: PhotoMIX Company, Pexels</a>*
+![image]({{ site.baseurl }}/img/lemons.jpg){:class="image-class"}{:alt="Lemonade"}{:title="Lemonade"}{:.postimage}*<a href="https://www.pexels.com/photo/aroma-beverage-blur-citrus-96974/">Credit: PhotoMIX Company, Pexels</a>*
 
 <p class="blogdate">01 January 2021</p>
 

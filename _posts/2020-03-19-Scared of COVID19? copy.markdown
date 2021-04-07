@@ -7,7 +7,7 @@ title: Scared of COVID19?
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/COVID19.jpg){:class="image-class"}{:alt="Covid-19"}{:.postimage}
+![image]({{ site.baseurl }}/img/COVID19.jpg){:class="image-class"}{:alt="Covid-19"}{:title="Covid-19"}{:.postimage}
 
 <p class="blogdate">19 March 2020</p>
 

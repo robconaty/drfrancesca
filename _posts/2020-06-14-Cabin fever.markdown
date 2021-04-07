@@ -7,7 +7,7 @@ title: Cabin fever
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/cabinfever.jpg){:class="image-class"}{:alt="Cabin fever"}{:.postimage}
+![image]({{ site.baseurl }}/img/cabinfever.jpg){:class="image-class"}{:alt="Cabin fever"}{:title="Cabin fever"}{:.postimage}
 
 <p class="blogdate">14 June 2020</p>
 

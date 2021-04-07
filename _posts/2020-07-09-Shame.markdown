@@ -7,7 +7,7 @@ title: Anatomy of shame
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/shame.jpg){:class="image-class"}{:alt="Feeling shame"}{:.postimage}
+![image]({{ site.baseurl }}/img/shame.jpg){:class="image-class"}{:alt="Feeling shame"}{:title="Feeling shame"}{:.postimage}
 
 <p class="blogdate">09 July 2020</p>
 

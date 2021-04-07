@@ -7,7 +7,7 @@ title: Time travel and Covid-19
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/timetravel.jpg){:class="image-class"}{:alt="Time travel"}{:.postimage}
+![image]({{ site.baseurl }}/img/timetravel.jpg){:class="image-class"}{:alt="Time travel"}{:title="Time travel"}{:.postimage}
 
 <p class="blogdate">19 April 2020 </p>
 

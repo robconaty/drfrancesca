@@ -7,7 +7,7 @@ title: Needs and limits
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/lookingup.jpg){:class="image-class"}{:alt="Looking up"}{:.postimage}
+![image]({{ site.baseurl }}/img/lookingup.jpg){:class="image-class"}{:alt="Looking up"}{:title="Looking up"}{:.postimage}
 
 <p class="blogdate">11 May 2020</p>
 

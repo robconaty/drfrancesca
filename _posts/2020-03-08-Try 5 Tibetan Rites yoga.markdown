@@ -6,7 +6,7 @@ title: Try '5 Tibetan rites' yoga
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/yoga.jpg){:class="image-class"}{:alt="Yoga"}{:.postimage}
+![image]({{ site.baseurl }}/img/yoga.jpg){:class="image-class"}{:alt="Yoga"}{:title="Yoga"}{:.postimage}
 <p class="blogdate">8 March 2020</p>
 
 The clinic where I see clients started running yoga sessions. I went along last week and I haven’t shut up about the class I attended since then. 5 Tibetan Rites is a series of five yoga poses. The aim is to repeat the rites 21 times in one session, but you may want to build up to this. Far from being a fad, this form of yoga is estimated to be more than 2,500 year’s old.

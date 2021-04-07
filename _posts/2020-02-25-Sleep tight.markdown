@@ -8,7 +8,7 @@ title: Sleep tight
 
 
 
-![image]({{ site.baseurl }}/img/sleepingmonkey_x600.png){:class="image-class"}{:alt="Sleeping monkey"}{:.postimage}
+![image]({{ site.baseurl }}/img/sleepingmonkey_x600.png){:class="image-class"}{:alt="Sleeping monkey"}{:title="Sleeping monkey"}{:.postimage}
 <p class="blogdate">25 February 2020</p>
 
 One of the first things I ask new clients is ‘how are you sleeping, lately?’ What’s interesting is how many people are surprised by the question. No one bats an eyelid when I ask about diet or exercise, but sleep? It seems like the idea that a lack of sleep might be wreaking havoc with our mental and physical wellbeing is the last thing many of us consider during difficult times in our lives.

@@ -7,7 +7,7 @@ title: Abuse and Covid-19
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/domesticviolence.jpg){:class="image-class"}{:alt="Domestic violence"}{:.postimage}
+![image]({{ site.baseurl }}/img/domesticviolence.jpg){:class="image-class"}{:alt="Domestic violence"}{:title="Domestic violence"}{:.postimage}
 
 <p class="blogdate">08 April 2020</p>
 

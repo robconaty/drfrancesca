@@ -7,7 +7,7 @@ title: Supporting male domestic violence victims
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/maledv.jpg){:class="image-class"}{:alt="Male domestic abuse victim"}{:.postimage}
+![image]({{ site.baseurl }}/img/maledv.jpg){:class="image-class"}{:alt="Male domestic abuse victim"}{:title="Male domestic abuse victim"}{:.postimage}
 
 <p class="blogdate">05 September 2020</p>
 

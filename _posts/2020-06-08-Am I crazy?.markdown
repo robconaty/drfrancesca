@@ -7,7 +7,7 @@ title: Am I crazy?
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/emotions.jpg){:class="image-class"}{:alt="Anxiety"}{:.postimage}
+![image]({{ site.baseurl }}/img/emotions.jpg){:class="image-class"}{:alt="Anxiety"}{:title="Anxiety"}{:.postimage}
 
 <p class="blogdate">08 June 2020</p>
 

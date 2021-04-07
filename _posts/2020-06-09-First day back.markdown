@@ -7,7 +7,7 @@ title: Back to school
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/abc.jpg){:class="image-class"}{:alt="Back to school"}{:.postimage}
+![image]({{ site.baseurl }}/img/abc.jpg){:class="image-class"}{:alt="Back to school"}{:title="Back to school"}{:.postimage}
 
 <p class="blogdate">11 June 2020</p>
 

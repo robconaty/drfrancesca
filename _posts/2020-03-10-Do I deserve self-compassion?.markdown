@@ -7,7 +7,7 @@ title: Practice self-compassion
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/selfcompassion.jpg){:class="image-class"}{:alt="Self compassion"}{:.postimage}
+![image]({{ site.baseurl }}/img/selfcompassion.jpg){:class="image-class"}{:title="Self-compassion"}{:alt="Self compassion"}{:.postimage}
 
 <p class="blogdate">10 March 2020</p>
 
