@@ -7,7 +7,7 @@ title: Mirror therapy study @ UoB
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
 
 
-![image]({{ site.baseurl }}/img/mirrorresearch.jpg){:class="image-class"}{:alt="Looking in mirror"}{:title="Looking in mirror"}{:.postimage}*<a href="https://www.pexels.com/photo/photo-of-woman-in-front-of-mirror-2691185/">Credit: Andi Alexander, Pexels</a>*
+![image]({{ site.baseurl }}/img/mirrorresearchexample.jpg){:class="image-class"}{:alt="Looking in mirror"}{:title="Looking in mirror"}{:.postimage}*<a href="https://www.pexels.com/photo/photo-of-woman-in-front-of-mirror-2691185/">Credit: Andi Alexander, Pexels</a>*
 
 
 
