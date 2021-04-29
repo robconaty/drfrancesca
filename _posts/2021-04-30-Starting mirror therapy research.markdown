@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Theodora Sabadeanu
-title: Mirror therapy study @ UoB 
+title: Mirror therapy study @ UoB
 ---
 
  <h2 class="postheader"><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
@@ -20,13 +20,11 @@ I am currently doing a Masters of Research in Clinical Psychology at the Univers
 
 I am very excited to be the first to investigate this therapeutic approach alongside Dr Francesca, my supervisor. My project involves interviewing clients to explore experiences of mirror therapy. I'm thrilled that the ethics committee have granted approval to begin conducting interviews. This will be the first phase in a research plan into the effectiveness of this new approach.
 
-I will be asking about the aspects of therapy clients find most and least helpful, and how mirror therapy may be different from other talking therapies which clients have received in the past.
+I will be asking about the aspects of therapy clients find most and least helpful, and how mirror therapy may be different from other talking therapies which clients have received in the past. By analysing personal accounts, I hope we will get better insights into the suitability and effectiveness of mirror therapy in supporting clients with a history of psychological suffering.
 
 <strong>So, what is mirror therapy?</strong>
 
 Mindful Interbeing Mirror Therapy, or mirror therapy, is a new approach developed over the last eight years by Dr Alessandro Carmelita and Dr Marina Cirio.
-
-By analysing these detailed personal accounts, I hope we will get better insights into the suitability and effectiveness of mirror therapy in supporting clients with a history of psychological suffering.
 
 Mirror therapy has a strong theoretical and clinical background, but because it is so new, there is no research into its effectiveness and long-term benefits.
 
