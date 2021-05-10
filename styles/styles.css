@@ -269,6 +269,19 @@ filter: grayscale(100%);
 
 }
 
+img.image-class.postimagec {
+
+width: 100%;
+height: auto;
+max-width: 600px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+align-self: left;
+
+
+}
+
 /* To style the image caption / photo credit */
 img + em {
 
@@ -376,6 +389,80 @@ margin-left: auto;
 
 
   }
+#mhawrow {
+  max-width: 800px;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  #imgwrapper {
+
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-right: 30px;
+    margin-left: 30px;
+
+  }
+
+  #imgwrapper img {
+
+  background: black;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+
+  }
+
+  #imgwrapper img:hover {
+
+  background: black;
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: brightness(50%) grayscale(0%);
+
+
+  }
+
+
+  #imgwrapper .text {
+
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 20%;
+    visibility:hidden;
+
+    }
+
+
+    #imgwrapper:hover .text {
+    visibility:visible;
+    width: 100%;
+    position: right;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-family: lato;
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 1.5px 1.5px #2195D3;
+    transition-delay: 0.6s;
+
+    }
+
+    #imgwrapper:hover .text a {
+    visibility:visible;
+    width: 100%;
+    position: right;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-family: lato;
+    font-size: 20px;
+    color: #2195D3;
+    text-shadow: 0px 0px;
+    transition-delay: 0.6s;
+    text-decoration: none;
+
+    }
 
   .postheader a:hover {
     text-decoration: none;
@@ -447,6 +534,24 @@ creates a margin for the container holding the icons*/
 
   }
 
+  #mhaw {
+
+      background-color: #f5fbfe;
+      padding-top: 30px;
+      padding-bottom: 60px;
+
+
+
+
+
+  }
+
+  #mhaw img {
+
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
 #serviceBlock {
 
   margin-top: 0px;
@@ -503,7 +608,6 @@ max-width: 600px;
 
   max-height: 25%;
   max-width: 25%;
-  float: right;
 
 
  }
@@ -730,6 +834,11 @@ h2.display-4 {
   padding-bottom: 0;
   margin-bottom:0;
 
+
+}
+
+h1.display-4 {
+  color: #fff;
 }
 
 
