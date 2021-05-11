@@ -727,14 +727,24 @@ padding-left: 10px;
     #imgwrapper .text {
 
       position: absolute;
-      text-align: left;
+      text-align: center;
       top: 40%;
-      left: 20%;
-      padding-left: 15px;
+      left: 10%;
+      padding-left: 0;
       visibility:hidden;
 
       }
 
+      #imgwrapper {
+
+        margin-left: 0;
+        margin-right:0;
+      }
+
+      h3#thankyous {
+        margin-left: 2px;
+        margin-right: 2px;
+      }
 
 
   .navbar-default .navbar-toggle {
@@ -758,6 +768,25 @@ font-size: 1.4em;
 }
 
 @media (max-width: 1200px) {
+
+
+  #imgwrapper .text {
+
+    text-align: left;
+    top: 40%;
+    left: 31%;
+    visibility:visible;
+    color: #fff;
+    text-shadow: 1.5px 1.5px #2195D3;
+
+
+    }
+
+#imgwrapper img {
+
+filter: brightness(50%) grayscale(0%);
+
+}
 
   p {
 
@@ -792,7 +821,7 @@ padding-right: 10px;
       padding: 10px;
       }
 
-      
+
 
 #ThankyouBlock {
 
