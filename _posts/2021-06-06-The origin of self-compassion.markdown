@@ -11,7 +11,7 @@ title: The origin of self-compassion
 
 
 
-<p class="blogdate">6 June 2021</p>
+<p class="blogdate">29 May 2021</p>
 <p class="blogdate">Guest author: Theodora Sabadeanu</p>
 
 
