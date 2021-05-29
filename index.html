@@ -352,7 +352,7 @@ description: A HCPC registered Clinical Psychologist offering face-to-face appoi
  			{% assign paragraphs = post.content | split:'</p>' %}
 
 
-    		{% for paragraph in paragraphs limit: 5 %}
+    		{% for paragraph in paragraphs limit: 4 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}
@@ -387,7 +387,7 @@ description: A HCPC registered Clinical Psychologist offering face-to-face appoi
     <a href="{{ site.baseurl }}/{{ post.url }}">
     <div> {% assign truncatedContent = '' %}
  			{% assign paragraphs = post.content | split:'</p>' %}
-    		{% for paragraph in paragraphs limit: 6 %}
+    		{% for paragraph in paragraphs limit: 4 %}
     		{{ truncatedContent | append: paragraph }}
     		{{ truncatedContent | append: '</p>' }}
     		{% endfor %}
