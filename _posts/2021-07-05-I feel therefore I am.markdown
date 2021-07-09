@@ -11,7 +11,7 @@ title: I feel, therefore I am
 
 
 
-<p class="blogdate">08 July 2021</p>
+<p class="blogdate">09 July 2021</p>
 
 
 This piece in <a href="https://www.nytimes.com/2003/04/19/books/i-feel-therefore-i-am.html"> The New York Times </a> is fascinating background to René Descartes' well-known concept 'I think, therefore I am.' It's a declaration so central to the way many of us perceive what it means to be human, that it may seem inconceivable that Descartes could have been, well... wrong. Speak to neuroscientists today though, and you may find they look less towards Descartes for answers than to his contemporary, Baruch Spinoza, who declared ‘I *feel*, therefore I am.’
