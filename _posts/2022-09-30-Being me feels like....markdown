@@ -15,11 +15,11 @@ title: Being me feels like...
 <p class="blogdate">30 September 2022</p>
 
 
-I asked one of my clients to describe their identity to me. After a long sigh, they said that it was so hard to describe the nothingness and shapelessness they felt. 'The only word I can think of is ...frazzled.'
+I asked one of my clients to describe their identity to me. After a long sigh, they explained that it was simply too hard to describe the nothingness and shapelessness they felt. 'The only word I can think of is ...frazzled.'
 
 'Sounds frightening,' I said and we continued exploring this theme.
 
-I asked them to observe what feels like to be frazzled. In the following session they brought a beautiful animation they had created (shown here).
+I asked them to observe what it feels like to be frazzled. In the following session, they showed me a beautiful animation they had created (shown here).
 
 We are now working on building a cohesive sense of self with the use of the mirror (find out how <a href="https://drfrancesca.co.uk/2020/05/25/Try-mirror-therapy.html">Mindful Interbeing Mirror Therapy</a> could benefit you. ).
 
