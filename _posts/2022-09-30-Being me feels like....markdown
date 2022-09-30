@@ -15,7 +15,7 @@ title: Being me feels like...
 <p class="blogdate">30 September 2022</p>
 
 
-I asked one of my clients to describe how they feel about themself. After a long sigh, they explained that it was simply too hard to describe the nothingness and shapelessness they felt. 'The only word I can think of is ...frazzled.'
+I asked one of my clients to describe how they see themself. After a long sigh, they explained that it was simply too hard to describe the nothingness and shapelessness they see. 'The only word I can think of is ...frazzled.'
 
 'Sounds frightening,' I said and we continued exploring this theme.
 
