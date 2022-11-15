@@ -1,6 +1,8 @@
 <style>
 
-
+body {
+	overflow-x: hidden;
+}
 
 .questionpair {
   margin-left: auto;
